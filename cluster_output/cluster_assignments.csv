@@ -1,0 +1,1658 @@
+DUPERSID,HIGH_COST,TOTEXP_NEXT,PRED_PROB,CLUSTER,PERSONA
+2790011102,0,15534,0.0579173679554478,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790012101,0,17745,0.1535796531858364,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790019101,0,7706,0.0425423987599947,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790023102,1,44426,0.1460267049525206,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790037101,0,11567,0.1399695674229777,0,Elderly / Moderate Conditions / Mixed Insurance
+2790043101,0,2533,0.0674447382708834,3,Elderly / Moderate Conditions / Mixed Insurance
+2790049101,0,6694,0.0441289137083965,0,Elderly / Moderate Conditions / Mixed Insurance
+2790050101,0,3825,0.0615855082309351,0,Elderly / Moderate Conditions / Mixed Insurance
+2790050102,1,42887,0.2884614713979718,3,Elderly / Moderate Conditions / Mixed Insurance
+2790051101,0,12314,0.4112048842691053,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790067101,0,13429,0.1018189205764716,0,Elderly / Moderate Conditions / Mixed Insurance
+2790072101,0,24716,0.0398539605526217,0,Elderly / Moderate Conditions / Mixed Insurance
+2790079101,1,41726,0.4555169202815975,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790086103,1,39034,0.1962142812098619,3,Elderly / Moderate Conditions / Mixed Insurance
+2790086105,0,11355,0.1052728960232243,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790087101,0,20693,0.0679277395200861,0,Elderly / Moderate Conditions / Mixed Insurance
+2790100101,1,72072,0.0433633942043975,0,Elderly / Moderate Conditions / Mixed Insurance
+2790100102,0,37043,0.0490455983032072,0,Elderly / Moderate Conditions / Mixed Insurance
+2790101101,0,14600,0.0552979725383645,0,Elderly / Moderate Conditions / Mixed Insurance
+2790119102,1,64289,0.4711261169724435,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790124101,0,9166,0.0692759554022921,0,Elderly / Moderate Conditions / Mixed Insurance
+2790141104,1,44733,0.1423010595828048,3,Elderly / Moderate Conditions / Mixed Insurance
+2790146101,0,2124,0.0507443056318335,0,Elderly / Moderate Conditions / Mixed Insurance
+2790150101,0,5706,0.0681586075644634,0,Elderly / Moderate Conditions / Mixed Insurance
+2790161101,0,6972,0.2506823908114898,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790165101,0,5931,0.0730908714232859,0,Elderly / Moderate Conditions / Mixed Insurance
+2790165102,0,2827,0.0419986686729987,0,Elderly / Moderate Conditions / Mixed Insurance
+2790166101,0,17326,0.0450215152147716,0,Elderly / Moderate Conditions / Mixed Insurance
+2790172102,0,17772,0.3004083370326295,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790181101,1,106137,0.5464333456769733,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790181102,1,97098,0.1201783735639507,0,Elderly / Moderate Conditions / Mixed Insurance
+2790186101,0,11621,0.2184225013090985,3,Elderly / Moderate Conditions / Mixed Insurance
+2790186102,0,26734,0.330156899185733,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790193102,0,15956,0.045271569112985,0,Elderly / Moderate Conditions / Mixed Insurance
+2790208101,0,3388,0.0499440991273824,3,Elderly / Moderate Conditions / Mixed Insurance
+2790210101,0,32005,0.1990924377932596,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790216102,0,5151,0.0414355405394384,0,Elderly / Moderate Conditions / Mixed Insurance
+2790219101,0,4945,0.1318940636543208,3,Elderly / Moderate Conditions / Mixed Insurance
+2790229101,0,2158,0.0426754784929481,0,Elderly / Moderate Conditions / Mixed Insurance
+2790255101,0,3465,0.0991310388359961,3,Elderly / Moderate Conditions / Mixed Insurance
+2790262101,0,6456,0.2822277581641487,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790274102,0,18529,0.1709722281560505,0,Elderly / Moderate Conditions / Mixed Insurance
+2790291101,0,10534,0.4445689139538015,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790301101,0,10535,0.0919362005496144,3,Elderly / Moderate Conditions / Mixed Insurance
+2790311101,1,65869,0.0563329939332587,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790311102,1,65940,0.4553518440303095,3,Elderly / Moderate Conditions / Mixed Insurance
+2790314101,0,15559,0.0485485161403607,0,Elderly / Moderate Conditions / Mixed Insurance
+2790317103,0,6814,0.0449945305085101,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790320101,0,5711,0.0403779385820115,0,Elderly / Moderate Conditions / Mixed Insurance
+2790324101,0,28112,0.1306541059829473,3,Elderly / Moderate Conditions / Mixed Insurance
+2790324102,0,4671,0.103900147496547,3,Elderly / Moderate Conditions / Mixed Insurance
+2790327102,0,991,0.0641840079210129,0,Elderly / Moderate Conditions / Mixed Insurance
+2790328101,1,38738,0.5825741960728917,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790334101,0,4357,0.0797386512170384,0,Elderly / Moderate Conditions / Mixed Insurance
+2790337101,1,42961,0.4274962180732912,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790340102,0,6894,0.047668989260098,0,Elderly / Moderate Conditions / Mixed Insurance
+2790344101,0,8725,0.213892000194945,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790346101,0,9661,0.0417892542640069,0,Elderly / Moderate Conditions / Mixed Insurance
+2790351101,0,23771,0.1377167922711936,0,Elderly / Moderate Conditions / Mixed Insurance
+2790352101,1,55820,0.1728914937650744,3,Elderly / Moderate Conditions / Mixed Insurance
+2790360101,0,3129,0.0430411541416564,0,Elderly / Moderate Conditions / Mixed Insurance
+2790363101,0,22213,0.1425534689769891,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790384101,0,31420,0.3386810394381784,3,Elderly / Moderate Conditions / Mixed Insurance
+2790395102,0,284,0.074401802606784,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790424101,1,124894,0.3118014318269125,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790425101,1,52243,0.5637141438373627,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790428101,0,11635,0.4566908419963315,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790428102,1,43571,0.558295367537876,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790431101,0,21273,0.1052363471595569,3,Elderly / Moderate Conditions / Mixed Insurance
+2790432101,1,63697,0.4344029931050251,3,Elderly / Moderate Conditions / Mixed Insurance
+2790433101,0,33515,0.3102323978299684,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790460101,0,29099,0.0785315233127589,0,Elderly / Moderate Conditions / Mixed Insurance
+2790468101,0,1107,0.0822213408508304,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790477101,0,5940,0.0601728940766547,0,Elderly / Moderate Conditions / Mixed Insurance
+2790481103,0,245,0.5135234817247778,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790489102,0,14967,0.1191131944592821,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790493101,0,16961,0.1134642243995867,0,Elderly / Moderate Conditions / Mixed Insurance
+2790496101,1,41811,0.1304581234836871,3,Elderly / Moderate Conditions / Mixed Insurance
+2790501101,0,3124,0.0501739869966983,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790501102,0,10966,0.0406260154374625,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790501103,0,10439,0.0462750484784362,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790501104,0,7523,0.0591919452562412,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790516101,1,254800,0.149572784201293,3,Elderly / Moderate Conditions / Mixed Insurance
+2790535101,0,14464,0.0486902065495412,0,Elderly / Moderate Conditions / Mixed Insurance
+2790544101,0,17077,0.1509989510186783,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790560101,0,22161,0.0747571714565418,0,Elderly / Moderate Conditions / Mixed Insurance
+2790563101,0,8158,0.041746763753924,3,Elderly / Moderate Conditions / Mixed Insurance
+2790564101,0,18846,0.1139163994878492,3,Elderly / Moderate Conditions / Mixed Insurance
+2790573101,1,60736,0.3578323740459745,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790582102,0,5613,0.0816336833975401,0,Elderly / Moderate Conditions / Mixed Insurance
+2790598102,0,0,0.0500979401510978,3,Elderly / Moderate Conditions / Mixed Insurance
+2790598103,0,0,0.0608939616560571,3,Elderly / Moderate Conditions / Mixed Insurance
+2790619101,0,3252,0.0469194173982258,3,Elderly / Moderate Conditions / Mixed Insurance
+2790638101,0,16191,0.047158640480954,0,Elderly / Moderate Conditions / Mixed Insurance
+2790639101,0,4751,0.044025404654029,0,Elderly / Moderate Conditions / Mixed Insurance
+2790643101,0,12364,0.0450134776134649,0,Elderly / Moderate Conditions / Mixed Insurance
+2790644101,0,8067,0.184196056354963,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790646103,0,1436,0.0397778906043201,0,Elderly / Moderate Conditions / Mixed Insurance
+2790650101,0,14287,0.1513322438393997,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790658101,0,10962,0.5785789315547032,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790661101,0,10225,0.0407334454831737,0,Elderly / Moderate Conditions / Mixed Insurance
+2790673102,0,4030,0.0769428110766226,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790676101,0,1614,0.0658078987211224,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790679101,0,10782,0.1517627605464574,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790711101,1,46772,0.0915617430985616,3,Elderly / Moderate Conditions / Mixed Insurance
+2790714101,0,3411,0.2914932183275577,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790729101,0,2868,0.0785125700562238,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790732101,1,205294,0.3989139782014149,3,Elderly / Moderate Conditions / Mixed Insurance
+2790737101,0,21340,0.0717592413203527,0,Elderly / Moderate Conditions / Mixed Insurance
+2790757101,0,13028,0.1891865949024102,0,Elderly / Moderate Conditions / Mixed Insurance
+2790758101,1,77490,0.1580767144232006,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790759102,0,4529,0.0632517865343455,3,Elderly / Moderate Conditions / Mixed Insurance
+2790761102,0,1944,0.0540042404264535,0,Elderly / Moderate Conditions / Mixed Insurance
+2790774101,0,13432,0.5405020650694656,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790775101,0,9704,0.3047196421330104,3,Elderly / Moderate Conditions / Mixed Insurance
+2790776101,1,100083,0.2701034425192864,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790783101,0,14378,0.0511072844529584,3,Elderly / Moderate Conditions / Mixed Insurance
+2790787101,0,30468,0.1120779206840912,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790789102,0,4666,0.1043414514710954,3,Elderly / Moderate Conditions / Mixed Insurance
+2790796101,0,22733,0.166704631521785,0,Elderly / Moderate Conditions / Mixed Insurance
+2790813101,0,11521,0.2586364407942709,3,Elderly / Moderate Conditions / Mixed Insurance
+2790813102,0,10274,0.0777830759102991,3,Elderly / Moderate Conditions / Mixed Insurance
+2790813103,1,159013,0.1488987016517249,3,Elderly / Moderate Conditions / Mixed Insurance
+2790824101,0,30306,0.1719753866129665,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790826102,0,7683,0.0440654624646762,0,Elderly / Moderate Conditions / Mixed Insurance
+2790833102,0,1317,0.0421438605279814,3,Elderly / Moderate Conditions / Mixed Insurance
+2790844101,0,18939,0.0569433988430343,0,Elderly / Moderate Conditions / Mixed Insurance
+2790851101,0,20813,0.0572291823156105,0,Elderly / Moderate Conditions / Mixed Insurance
+2790853103,0,12,0.0450422332547188,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790854101,0,15032,0.0408464170316236,0,Elderly / Moderate Conditions / Mixed Insurance
+2790855101,0,8137,0.1993217460737262,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790874101,0,16524,0.1614841464422883,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790878101,0,488,0.0669579634137499,3,Elderly / Moderate Conditions / Mixed Insurance
+2790880101,0,32218,0.4200484143002922,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790881101,0,3319,0.1747756626378219,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790882101,0,35219,0.1203205421819923,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790887101,0,9285,0.0661862815485859,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790887102,1,64105,0.0546617960977735,0,Elderly / Moderate Conditions / Mixed Insurance
+2790895101,0,882,0.049948666801535,0,Elderly / Moderate Conditions / Mixed Insurance
+2790896101,0,12734,0.1381321049581986,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790898101,0,5123,0.2816806964639352,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790898102,0,30958,0.2839137390959555,3,Elderly / Moderate Conditions / Mixed Insurance
+2790903102,0,12482,0.1336211113021747,0,Elderly / Moderate Conditions / Mixed Insurance
+2790906101,0,29477,0.0538625609418262,0,Elderly / Moderate Conditions / Mixed Insurance
+2790912101,0,14669,0.2779149770482851,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790925101,0,34191,0.0464021627268732,0,Elderly / Moderate Conditions / Mixed Insurance
+2790925102,1,56240,0.5754015919272053,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2790929102,0,29186,0.0540518403877622,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790930101,1,76285,0.0585231489082355,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2790935101,0,37140,0.0988413635468609,3,Elderly / Moderate Conditions / Mixed Insurance
+2790944101,0,7051,0.0460258063759413,0,Elderly / Moderate Conditions / Mixed Insurance
+2790949101,0,12104,0.0601737935299382,3,Elderly / Moderate Conditions / Mixed Insurance
+2790954105,1,75054,0.0657228593194386,0,Elderly / Moderate Conditions / Mixed Insurance
+2790961101,0,17977,0.0692491207753604,3,Elderly / Moderate Conditions / Mixed Insurance
+2790998101,0,5334,0.0550523387624601,0,Elderly / Moderate Conditions / Mixed Insurance
+2791005102,0,26591,0.0496151441460434,0,Elderly / Moderate Conditions / Mixed Insurance
+2791006101,1,46531,0.3991585343017197,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791011101,0,13225,0.1317945720169651,3,Elderly / Moderate Conditions / Mixed Insurance
+2791012101,0,26004,0.1039681886880537,3,Elderly / Moderate Conditions / Mixed Insurance
+2791030101,0,12609,0.3131052675535726,3,Elderly / Moderate Conditions / Mixed Insurance
+2791031101,0,8653,0.4230253658139372,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791033101,0,15403,0.0928837815354052,0,Elderly / Moderate Conditions / Mixed Insurance
+2791033103,0,15442,0.1200605107138561,3,Elderly / Moderate Conditions / Mixed Insurance
+2791043102,0,33106,0.1403143620205558,3,Elderly / Moderate Conditions / Mixed Insurance
+2791043103,0,0,0.0504666223557317,3,Elderly / Moderate Conditions / Mixed Insurance
+2791044101,1,49907,0.3888117836344075,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791051101,0,13556,0.2555311354249908,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791067101,0,374,0.0668507961923945,0,Elderly / Moderate Conditions / Mixed Insurance
+2791076101,0,25563,0.1247356480300237,3,Elderly / Moderate Conditions / Mixed Insurance
+2791090102,0,8619,0.3997663959235729,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791090103,0,11621,0.0843503939277124,3,Elderly / Moderate Conditions / Mixed Insurance
+2791091101,0,32226,0.0994252285667246,0,Elderly / Moderate Conditions / Mixed Insurance
+2791094101,0,8919,0.0426328107030973,0,Elderly / Moderate Conditions / Mixed Insurance
+2791100101,0,10076,0.1018728141064512,0,Elderly / Moderate Conditions / Mixed Insurance
+2791102101,0,16733,0.0423542685506981,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791105101,1,39061,0.2651062057289898,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791106102,0,752,0.0408607090521633,0,Elderly / Moderate Conditions / Mixed Insurance
+2791109101,1,75710,0.0442492117380713,3,Elderly / Moderate Conditions / Mixed Insurance
+2791110101,0,25065,0.264093872977317,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791113101,0,3772,0.0504993350812354,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791124101,0,31722,0.5789901742010559,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791130103,1,60642,0.597928658123308,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791139101,0,10184,0.1030454127151494,3,Elderly / Moderate Conditions / Mixed Insurance
+2791140101,0,7927,0.2403326250694189,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791145101,0,10990,0.2373293919141793,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791145103,0,6879,0.0455674840587356,3,Elderly / Moderate Conditions / Mixed Insurance
+2791149101,0,11983,0.1466895080517913,0,Elderly / Moderate Conditions / Mixed Insurance
+2791172102,0,30674,0.3021575251607626,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791176101,0,5329,0.0499927333616251,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791177101,0,13638,0.0606393405703061,3,Elderly / Moderate Conditions / Mixed Insurance
+2791181101,0,8045,0.1650417572101634,3,Elderly / Moderate Conditions / Mixed Insurance
+2791183101,0,22521,0.0551860302377708,3,Elderly / Moderate Conditions / Mixed Insurance
+2791201101,0,26693,0.5300584686254978,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791204101,0,28101,0.053801149555348,0,Elderly / Moderate Conditions / Mixed Insurance
+2791210101,1,50481,0.4084817246277213,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791212101,0,20860,0.2373822853364589,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791226102,0,18330,0.2385793950398836,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791230101,0,29299,0.1162471747454649,3,Elderly / Moderate Conditions / Mixed Insurance
+2791232101,0,8048,0.069985757460846,3,Elderly / Moderate Conditions / Mixed Insurance
+2791232102,1,111485,0.4341519213934951,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791233101,0,7269,0.3803229968044523,3,Elderly / Moderate Conditions / Mixed Insurance
+2791239102,0,12056,0.3239315697542608,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791242101,0,4098,0.1184955726078985,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791247101,0,8463,0.0449608092138466,3,Elderly / Moderate Conditions / Mixed Insurance
+2791254101,1,58843,0.086948801677998,3,Elderly / Moderate Conditions / Mixed Insurance
+2791254102,0,6294,0.1345834000542723,3,Elderly / Moderate Conditions / Mixed Insurance
+2791257102,0,8322,0.1650641289836936,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791261101,0,28529,0.5182370512771738,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791262101,0,22095,0.0477637254524453,0,Elderly / Moderate Conditions / Mixed Insurance
+2791274104,0,644,0.0464979872676641,0,Elderly / Moderate Conditions / Mixed Insurance
+2791274105,0,3614,0.082962681314871,3,Elderly / Moderate Conditions / Mixed Insurance
+2791276101,0,22404,0.0800815244902787,3,Elderly / Moderate Conditions / Mixed Insurance
+2791284101,0,15487,0.3851359998195205,3,Elderly / Moderate Conditions / Mixed Insurance
+2791307101,0,32932,0.1536778324471128,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791311101,0,3226,0.0521305273678466,0,Elderly / Moderate Conditions / Mixed Insurance
+2791311102,0,7080,0.1878145202899268,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791311103,0,2192,0.0478968611445858,0,Elderly / Moderate Conditions / Mixed Insurance
+2791313101,1,104417,0.04996141478933,0,Elderly / Moderate Conditions / Mixed Insurance
+2791323101,0,7689,0.0817870217726561,0,Elderly / Moderate Conditions / Mixed Insurance
+2791323102,0,6086,0.2582590803536651,3,Elderly / Moderate Conditions / Mixed Insurance
+2791324101,0,12654,0.4065437199515653,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791335101,1,45404,0.0635536174332449,0,Elderly / Moderate Conditions / Mixed Insurance
+2791335102,0,3596,0.042815807584541,3,Elderly / Moderate Conditions / Mixed Insurance
+2791337101,0,4385,0.0844339521715064,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791346101,0,11984,0.0586945666257743,3,Elderly / Moderate Conditions / Mixed Insurance
+2791356101,0,17156,0.1268314255599146,0,Elderly / Moderate Conditions / Mixed Insurance
+2791376101,0,7643,0.0709652568905785,3,Elderly / Moderate Conditions / Mixed Insurance
+2791379102,0,3840,0.1077286683106836,3,Elderly / Moderate Conditions / Mixed Insurance
+2791395101,1,83611,0.5579062876647602,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791398101,0,24541,0.0732444589410733,0,Elderly / Moderate Conditions / Mixed Insurance
+2791436101,0,13973,0.3509641122553152,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791439102,0,13241,0.2574146432341999,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791450101,0,8834,0.3735026128298737,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791459101,1,42995,0.3563127453038744,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791461103,0,0,0.0496568425310211,3,Elderly / Moderate Conditions / Mixed Insurance
+2791462101,0,36293,0.1267450427248234,3,Elderly / Moderate Conditions / Mixed Insurance
+2791464101,0,20030,0.545779481268661,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791464102,0,14043,0.0480018418274312,0,Elderly / Moderate Conditions / Mixed Insurance
+2791464103,0,4216,0.0751777494612979,3,Elderly / Moderate Conditions / Mixed Insurance
+2791471102,0,4693,0.0470203797824022,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791492101,0,408,0.5744094459524833,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791493101,0,14580,0.0886513582744552,0,Elderly / Moderate Conditions / Mixed Insurance
+2791503101,0,3523,0.0946930741831865,3,Elderly / Moderate Conditions / Mixed Insurance
+2791503102,0,21853,0.2055373838178615,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791522103,0,20511,0.2900232362055748,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791524101,0,37291,0.0654835692390288,3,Elderly / Moderate Conditions / Mixed Insurance
+2791526101,0,2448,0.067568432899947,3,Elderly / Moderate Conditions / Mixed Insurance
+2791528101,0,34118,0.2887514675605766,3,Elderly / Moderate Conditions / Mixed Insurance
+2791543101,0,13028,0.2058709035432532,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791547102,0,6400,0.090489340678356,3,Elderly / Moderate Conditions / Mixed Insurance
+2791550102,1,70633,0.4807579506104443,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791563101,0,11746,0.0603373429321023,3,Elderly / Moderate Conditions / Mixed Insurance
+2791568101,1,58894,0.0795904332754557,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791570101,0,142,0.099417184918792,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791572101,0,24418,0.1362916267930072,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791574102,0,13344,0.0632278857324899,3,Elderly / Moderate Conditions / Mixed Insurance
+2791586101,1,63592,0.5034055057135332,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791594102,1,81272,0.0835061198787682,3,Elderly / Moderate Conditions / Mixed Insurance
+2791600102,0,28956,0.4832068042032332,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791609102,0,6377,0.0594272844371457,0,Elderly / Moderate Conditions / Mixed Insurance
+2791610101,0,17743,0.0776922978900436,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791636101,1,42284,0.5683539868692762,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791636102,0,24727,0.5603784995706578,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791637101,1,72659,0.1247404588719884,0,Elderly / Moderate Conditions / Mixed Insurance
+2791646101,1,41849,0.0574908594806889,0,Elderly / Moderate Conditions / Mixed Insurance
+2791649101,0,893,0.2220373638730391,3,Elderly / Moderate Conditions / Mixed Insurance
+2791650105,0,5517,0.4482260267832815,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791652101,0,7337,0.0430051230795702,0,Elderly / Moderate Conditions / Mixed Insurance
+2791655101,0,28056,0.0504245579479978,0,Elderly / Moderate Conditions / Mixed Insurance
+2791659101,0,13161,0.0509177266519118,0,Elderly / Moderate Conditions / Mixed Insurance
+2791664101,0,35401,0.5702060809796378,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791686101,0,8521,0.0770910668326546,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791692102,1,55337,0.2600527989469982,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791693101,0,18377,0.0827099554917254,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791697103,1,51173,0.0462716594215138,0,Elderly / Moderate Conditions / Mixed Insurance
+2791707101,0,7344,0.0647725477827809,3,Elderly / Moderate Conditions / Mixed Insurance
+2791710101,0,32086,0.2744531325672749,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791716101,0,329,0.0594377447892863,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791721101,0,5239,0.1033724248501287,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791722101,0,1071,0.0691557977712919,3,Elderly / Moderate Conditions / Mixed Insurance
+2791737101,1,66923,0.6130298732142552,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791742102,0,15711,0.0453223447426358,0,Elderly / Moderate Conditions / Mixed Insurance
+2791760101,0,16280,0.0856764782106605,3,Elderly / Moderate Conditions / Mixed Insurance
+2791761101,0,737,0.0578265047432098,0,Elderly / Moderate Conditions / Mixed Insurance
+2791762102,0,6412,0.4041478231532478,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791772101,1,44802,0.3653057464030193,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791793103,0,2671,0.1889858586972071,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791801101,1,273154,0.4990066166360304,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791803101,0,26498,0.1740126871067812,3,Elderly / Moderate Conditions / Mixed Insurance
+2791806101,0,1177,0.0878918608845229,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791810101,1,86984,0.4185510270413785,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791816101,0,1776,0.07781850076649,3,Elderly / Moderate Conditions / Mixed Insurance
+2791821101,0,3760,0.0431389154571423,0,Elderly / Moderate Conditions / Mixed Insurance
+2791824101,0,19971,0.2879870243709072,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791827101,1,43673,0.1446169612509318,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791838101,1,98109,0.0930191329737534,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791844101,0,4480,0.0582951569794942,0,Elderly / Moderate Conditions / Mixed Insurance
+2791844102,1,43901,0.5879443920765428,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791847101,1,48082,0.5639792705734832,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791856101,0,4226,0.0745215687592354,3,Elderly / Moderate Conditions / Mixed Insurance
+2791856102,0,311,0.0531061736602919,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791858101,0,7740,0.0427582535568211,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791871101,0,12890,0.1675921840590168,0,Elderly / Moderate Conditions / Mixed Insurance
+2791876101,0,10376,0.0418792025274956,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791879101,0,31830,0.042621590874022,3,Elderly / Moderate Conditions / Mixed Insurance
+2791886101,0,23859,0.1336717239980767,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791903101,0,18702,0.0749939066670619,3,Elderly / Moderate Conditions / Mixed Insurance
+2791914101,0,1596,0.0407022731874033,0,Elderly / Moderate Conditions / Mixed Insurance
+2791916101,0,13489,0.2827901346518179,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791919101,1,91968,0.0556479689373162,0,Elderly / Moderate Conditions / Mixed Insurance
+2791919102,0,9370,0.0595198147032802,0,Elderly / Moderate Conditions / Mixed Insurance
+2791926102,0,10737,0.091636959880288,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791940101,0,3862,0.1323178568695442,0,Elderly / Moderate Conditions / Mixed Insurance
+2791975101,0,12321,0.1837009152091054,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2791975102,1,168781,0.3542519965618375,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2791988101,0,10225,0.0427375398848518,0,Elderly / Moderate Conditions / Mixed Insurance
+2791992102,1,46755,0.0554916335935867,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792002101,0,4486,0.113789935148753,3,Elderly / Moderate Conditions / Mixed Insurance
+2792003101,0,6793,0.1051125694335685,3,Elderly / Moderate Conditions / Mixed Insurance
+2792004101,0,8582,0.0609440557381618,0,Elderly / Moderate Conditions / Mixed Insurance
+2792010101,0,7135,0.0778393886591097,0,Elderly / Moderate Conditions / Mixed Insurance
+2792010102,1,73583,0.507457871933015,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792012101,1,45178,0.0460931835190788,0,Elderly / Moderate Conditions / Mixed Insurance
+2792016101,0,3858,0.0407515449731232,0,Elderly / Moderate Conditions / Mixed Insurance
+2792027102,0,31974,0.2150082808703262,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792029101,0,25474,0.5979916438201083,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792029102,0,4500,0.2074833706918205,3,Elderly / Moderate Conditions / Mixed Insurance
+2792037102,1,54674,0.2150337669419042,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792038101,0,11612,0.1677286326045774,0,Elderly / Moderate Conditions / Mixed Insurance
+2792052101,1,38602,0.046726505794933,0,Elderly / Moderate Conditions / Mixed Insurance
+2792056101,0,12130,0.1748600009948442,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792059102,0,0,0.0524343007855963,3,Elderly / Moderate Conditions / Mixed Insurance
+2792061101,0,2525,0.0792417475287721,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792071101,0,0,0.0832817990639832,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792075101,0,12299,0.1449364907022177,3,Elderly / Moderate Conditions / Mixed Insurance
+2792076101,0,7650,0.0595741608269324,3,Elderly / Moderate Conditions / Mixed Insurance
+2792080101,0,5829,0.0629751411157753,0,Elderly / Moderate Conditions / Mixed Insurance
+2792086101,0,37502,0.0768467910029949,3,Elderly / Moderate Conditions / Mixed Insurance
+2792092101,0,8869,0.0512897669246386,0,Elderly / Moderate Conditions / Mixed Insurance
+2792097101,1,65086,0.4950572056603054,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792098102,0,27331,0.041081120072144,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792107102,0,1516,0.1409249924878141,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792112101,1,58066,0.4771436287978973,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792117101,0,4245,0.0604919233815199,0,Elderly / Moderate Conditions / Mixed Insurance
+2792121101,0,16369,0.0840526225559097,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792124101,0,8636,0.1590467866610335,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792126102,0,18224,0.1426706744572366,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792134101,0,20807,0.0622517407324326,0,Elderly / Moderate Conditions / Mixed Insurance
+2792143101,0,12649,0.3732762359756486,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792162101,1,225208,0.5372281865999401,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792172101,0,16074,0.0517194074647662,0,Elderly / Moderate Conditions / Mixed Insurance
+2792172102,0,6511,0.116203879220749,3,Elderly / Moderate Conditions / Mixed Insurance
+2792178101,0,1491,0.0676239681391802,3,Elderly / Moderate Conditions / Mixed Insurance
+2792181101,1,100905,0.1163740644750502,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792183101,0,21810,0.087627050391108,0,Elderly / Moderate Conditions / Mixed Insurance
+2792190101,0,26119,0.4861705688290056,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792192101,0,14288,0.04289706346099,0,Elderly / Moderate Conditions / Mixed Insurance
+2792193101,0,5146,0.0642692174410991,3,Elderly / Moderate Conditions / Mixed Insurance
+2792200101,0,35888,0.0716672093894146,0,Elderly / Moderate Conditions / Mixed Insurance
+2792209101,0,12983,0.3419128512905874,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792218101,0,9117,0.2779897534082892,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792224102,1,129494,0.4295570251463346,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792237101,0,4273,0.073228794066149,0,Elderly / Moderate Conditions / Mixed Insurance
+2792238101,0,7099,0.0513776274450317,0,Elderly / Moderate Conditions / Mixed Insurance
+2792238102,0,15492,0.0749089821245432,0,Elderly / Moderate Conditions / Mixed Insurance
+2792242101,0,1788,0.0400038561067431,0,Elderly / Moderate Conditions / Mixed Insurance
+2792246102,0,1112,0.0750085402538464,0,Elderly / Moderate Conditions / Mixed Insurance
+2792258102,0,32074,0.2189701335041542,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792263101,1,59228,0.0778692107882975,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792316101,0,13430,0.1484313727908359,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792319101,0,31184,0.1121445124833709,0,Elderly / Moderate Conditions / Mixed Insurance
+2792334101,0,22521,0.0582003332554837,0,Elderly / Moderate Conditions / Mixed Insurance
+2792345101,1,63116,0.3669257252994562,3,Elderly / Moderate Conditions / Mixed Insurance
+2792348101,0,1546,0.1489558086523312,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792350102,0,1646,0.0545214135782573,3,Elderly / Moderate Conditions / Mixed Insurance
+2792358101,0,5828,0.0609848114850497,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792358105,0,17265,0.2158583037140903,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792362101,0,9405,0.2162063478331296,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792363101,0,8574,0.3372614864970003,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792365101,0,31958,0.0489429890634686,0,Elderly / Moderate Conditions / Mixed Insurance
+2792371101,0,33025,0.0493856368975599,0,Elderly / Moderate Conditions / Mixed Insurance
+2792376101,0,15946,0.0456102914889275,0,Elderly / Moderate Conditions / Mixed Insurance
+2792376102,0,2084,0.054344293831318,0,Elderly / Moderate Conditions / Mixed Insurance
+2792380101,0,15406,0.1170373353496976,3,Elderly / Moderate Conditions / Mixed Insurance
+2792387101,0,8378,0.080409313856672,3,Elderly / Moderate Conditions / Mixed Insurance
+2792390101,1,41779,0.1887320411612114,3,Elderly / Moderate Conditions / Mixed Insurance
+2792392101,0,19762,0.2692362252554884,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792402101,0,5553,0.3675717190575697,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792413101,0,16683,0.0686746379823648,0,Elderly / Moderate Conditions / Mixed Insurance
+2792414102,0,250,0.0749485908459704,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792421101,1,45563,0.4364701673767615,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792428101,0,24993,0.3682303026783632,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792430101,0,4684,0.0578110642051324,3,Elderly / Moderate Conditions / Mixed Insurance
+2792434101,0,1749,0.0442745245744555,0,Elderly / Moderate Conditions / Mixed Insurance
+2792444102,0,11950,0.0418686727509608,0,Elderly / Moderate Conditions / Mixed Insurance
+2792458101,0,6677,0.0426285022224007,0,Elderly / Moderate Conditions / Mixed Insurance
+2792458102,0,29228,0.4894426153074034,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792474102,1,49687,0.5480516389914853,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792475101,0,9618,0.1373315355349593,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792478101,0,1484,0.0414491646865893,0,Elderly / Moderate Conditions / Mixed Insurance
+2792487101,1,49224,0.0873748980003927,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792487102,0,2230,0.3384998589492675,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792490101,0,12039,0.1702896185358347,3,Elderly / Moderate Conditions / Mixed Insurance
+2792490102,0,33081,0.1204314606158724,3,Elderly / Moderate Conditions / Mixed Insurance
+2792491101,0,11221,0.174658650099401,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792491102,0,3871,0.0417587842980515,0,Elderly / Moderate Conditions / Mixed Insurance
+2792491103,0,5038,0.0450775075164247,0,Elderly / Moderate Conditions / Mixed Insurance
+2792516101,1,71363,0.3621824301476687,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792524101,0,20899,0.2289378883386221,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792534101,0,1766,0.0516699787211934,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792537101,0,6731,0.0483058853624359,3,Elderly / Moderate Conditions / Mixed Insurance
+2792539101,0,14062,0.1098276671943859,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792541102,0,5736,0.1176559572528822,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792543101,0,2586,0.0504381816332357,0,Elderly / Moderate Conditions / Mixed Insurance
+2792552101,0,20258,0.1091512840858313,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792552102,0,25675,0.3958654264658602,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792556101,0,33689,0.2346297238726751,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792565102,0,11159,0.0410755962896932,0,Elderly / Moderate Conditions / Mixed Insurance
+2792568101,0,34900,0.0605127317290393,0,Elderly / Moderate Conditions / Mixed Insurance
+2792569102,0,6588,0.1224804015427525,3,Elderly / Moderate Conditions / Mixed Insurance
+2792583102,0,25806,0.0473291557386615,3,Elderly / Moderate Conditions / Mixed Insurance
+2792588101,0,21260,0.0920815595538934,0,Elderly / Moderate Conditions / Mixed Insurance
+2792588102,1,75362,0.5598182375210182,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792588105,1,48186,0.5380377103018228,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792594101,0,10546,0.0682185019542545,0,Elderly / Moderate Conditions / Mixed Insurance
+2792605101,1,149477,0.5540580301141429,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792610101,0,5497,0.2708500844395438,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792615101,0,10133,0.1588707918864001,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792615102,0,9101,0.2015378081265871,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792622101,1,50254,0.4066671230105608,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792636101,0,11248,0.0770860309945509,0,Elderly / Moderate Conditions / Mixed Insurance
+2792638101,0,4568,0.0723624306105026,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792644101,0,37271,0.0498895969340832,0,Elderly / Moderate Conditions / Mixed Insurance
+2792673101,0,4727,0.0442032885874865,0,Elderly / Moderate Conditions / Mixed Insurance
+2792677101,1,63723,0.2834643607008066,3,Elderly / Moderate Conditions / Mixed Insurance
+2792682101,0,23604,0.0420203271239846,0,Elderly / Moderate Conditions / Mixed Insurance
+2792682102,0,30060,0.0501896790122141,0,Elderly / Moderate Conditions / Mixed Insurance
+2792682104,0,14358,0.137511784125563,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792693101,0,20885,0.1033003484787899,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792700101,1,40151,0.0424566503338034,0,Elderly / Moderate Conditions / Mixed Insurance
+2792701102,1,52773,0.2230432341087742,3,Elderly / Moderate Conditions / Mixed Insurance
+2792703101,0,11147,0.1531499127628841,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792703102,0,20137,0.0652362199626188,0,Elderly / Moderate Conditions / Mixed Insurance
+2792704101,0,497,0.0790181285540004,0,Elderly / Moderate Conditions / Mixed Insurance
+2792705101,0,5614,0.0820968408237535,3,Elderly / Moderate Conditions / Mixed Insurance
+2792705102,0,4874,0.0396442046598252,3,Elderly / Moderate Conditions / Mixed Insurance
+2792711101,0,20204,0.162164875975514,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792712101,1,41064,0.0835557351379108,0,Elderly / Moderate Conditions / Mixed Insurance
+2792712102,0,7435,0.0420607257057756,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792720102,0,9749,0.1195362584590178,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792720103,0,2956,0.2175824723539348,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792723102,0,28909,0.2051882779691063,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792734101,0,23190,0.2296460430692621,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792734104,0,1452,0.0499658719314731,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792752103,0,2314,0.0481666803988618,0,Elderly / Moderate Conditions / Mixed Insurance
+2792754101,0,11288,0.0565381798708455,3,Elderly / Moderate Conditions / Mixed Insurance
+2792756101,0,15498,0.3983517818827412,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792760102,0,7172,0.065185732122536,0,Elderly / Moderate Conditions / Mixed Insurance
+2792774101,1,45641,0.0825672365669994,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792781102,0,14778,0.0601395570062769,0,Elderly / Moderate Conditions / Mixed Insurance
+2792784102,0,12818,0.0608951949478795,0,Elderly / Moderate Conditions / Mixed Insurance
+2792792101,0,13836,0.4020412286167195,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792799102,0,14859,0.0599916669903742,0,Elderly / Moderate Conditions / Mixed Insurance
+2792802101,0,13119,0.0806349463634908,0,Elderly / Moderate Conditions / Mixed Insurance
+2792802102,0,21985,0.3818685463981725,3,Elderly / Moderate Conditions / Mixed Insurance
+2792804101,0,12587,0.0514534992678826,0,Elderly / Moderate Conditions / Mixed Insurance
+2792804102,0,11385,0.2752027669256429,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792812101,0,7888,0.0774169932869274,3,Elderly / Moderate Conditions / Mixed Insurance
+2792822101,1,38216,0.3112641999073798,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792824102,0,24792,0.0548565958488237,0,Elderly / Moderate Conditions / Mixed Insurance
+2792843101,0,8328,0.0414350456373016,0,Elderly / Moderate Conditions / Mixed Insurance
+2792844101,0,26058,0.1754927624166306,3,Elderly / Moderate Conditions / Mixed Insurance
+2792850103,1,47525,0.541895603989001,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792855102,1,53900,0.4525461683428077,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792857101,0,9070,0.0889510341861334,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792867101,1,65534,0.4057475376722094,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792871101,0,2901,0.4523502663309592,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792874102,0,27679,0.0401651531999232,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792878101,0,21154,0.3192893494340731,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792888101,0,19354,0.2191760676914077,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792892101,0,3693,0.0957975177112293,3,Elderly / Moderate Conditions / Mixed Insurance
+2792895102,0,18131,0.0433050142710747,0,Elderly / Moderate Conditions / Mixed Insurance
+2792904101,0,16800,0.4602049490241627,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792904102,1,138303,0.3051767299834549,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792914101,1,57856,0.0884067480971622,0,Elderly / Moderate Conditions / Mixed Insurance
+2792914102,0,7938,0.3936182730363791,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792914103,0,13696,0.4902659683821472,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792915103,0,37545,0.5469120136258799,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792923101,0,7838,0.0922119210993644,3,Elderly / Moderate Conditions / Mixed Insurance
+2792930101,0,4185,0.1006098992345375,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792935101,0,20900,0.0538257589096993,3,Elderly / Moderate Conditions / Mixed Insurance
+2792957101,0,11234,0.4848278159666865,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792960101,1,41489,0.3706825649740833,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792964102,0,28782,0.3556784773353263,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792966101,0,4254,0.1353211520745761,3,Elderly / Moderate Conditions / Mixed Insurance
+2792966102,0,23403,0.2910023045618506,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2792969101,0,15737,0.0601542362642129,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2792972101,0,911,0.1876309384993871,3,Elderly / Moderate Conditions / Mixed Insurance
+2792974101,0,2687,0.1558677901178072,3,Elderly / Moderate Conditions / Mixed Insurance
+2792992101,0,2771,0.1191010691024682,3,Elderly / Moderate Conditions / Mixed Insurance
+2792998101,0,6131,0.1406128991434033,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793001101,0,9837,0.0828051584211373,3,Elderly / Moderate Conditions / Mixed Insurance
+2793003101,0,16883,0.4496030270229542,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793011101,0,27001,0.1827846204451605,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793026101,0,37709,0.339457723097849,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793040102,0,660,0.0509289733855182,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793041102,0,4187,0.0889114491417826,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793049101,0,8902,0.0995798801604693,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793050102,0,36470,0.2172398903382776,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793054102,0,1545,0.0403238836307474,0,Elderly / Moderate Conditions / Mixed Insurance
+2793060103,1,163642,0.5558363877196776,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793061101,0,9230,0.1016358956264669,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793061104,0,93,0.2168509618969553,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793067101,0,717,0.1752024525772863,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793090101,0,1162,0.0722314488922399,3,Elderly / Moderate Conditions / Mixed Insurance
+2793100101,0,20523,0.5242596990439137,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793104101,0,12118,0.06410682609651,0,Elderly / Moderate Conditions / Mixed Insurance
+2793116101,1,69272,0.1787266755955601,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793117101,0,21028,0.2549097186190071,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793117102,0,20278,0.0535518866694175,3,Elderly / Moderate Conditions / Mixed Insurance
+2793123104,0,9257,0.1298301102686675,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793140101,0,2541,0.0514050527858679,0,Elderly / Moderate Conditions / Mixed Insurance
+2793142101,1,41602,0.2255805908558665,3,Elderly / Moderate Conditions / Mixed Insurance
+2793144101,0,4386,0.0396303019553905,0,Elderly / Moderate Conditions / Mixed Insurance
+2793145101,0,4523,0.0629213026695905,3,Elderly / Moderate Conditions / Mixed Insurance
+2793147101,0,4265,0.0603336056402479,3,Elderly / Moderate Conditions / Mixed Insurance
+2793150101,0,7695,0.0671821409063268,0,Elderly / Moderate Conditions / Mixed Insurance
+2793165102,0,20383,0.4313604412524366,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793174101,0,17675,0.1778912105063639,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793176101,1,57843,0.0406565470311241,0,Elderly / Moderate Conditions / Mixed Insurance
+2793176102,1,48777,0.1656203688918323,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793179101,0,2450,0.3993304766568319,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793187102,0,9990,0.0447452960463447,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793197101,0,14245,0.0402483170458956,0,Elderly / Moderate Conditions / Mixed Insurance
+2793197102,0,19090,0.2741230151739063,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793199101,0,28730,0.0406589703605259,0,Elderly / Moderate Conditions / Mixed Insurance
+2793199102,1,74555,0.1687719412569665,0,Elderly / Moderate Conditions / Mixed Insurance
+2793209101,1,75734,0.416425352018429,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793217102,1,43076,0.5883391308529686,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793223102,0,3348,0.0525084624196224,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793229103,1,40369,0.2056019478587608,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793233101,0,9949,0.044580115030822,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793237102,0,14556,0.4165839946721107,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793240101,0,2312,0.1513212356585059,3,Elderly / Moderate Conditions / Mixed Insurance
+2793244101,0,5034,0.3615369086206029,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793249101,0,7832,0.1741259831941581,3,Elderly / Moderate Conditions / Mixed Insurance
+2793254102,0,18241,0.0492488279988144,0,Elderly / Moderate Conditions / Mixed Insurance
+2793263104,1,195500,0.0674418359058399,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793264101,0,28571,0.0648390808630365,0,Elderly / Moderate Conditions / Mixed Insurance
+2793264102,1,75066,0.2929721684944013,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793267101,0,8862,0.0583036417197129,3,Elderly / Moderate Conditions / Mixed Insurance
+2793270102,0,59,0.0493132862772789,3,Elderly / Moderate Conditions / Mixed Insurance
+2793287102,1,50193,0.3092701634847108,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793289101,1,184827,0.0665403272336608,0,Elderly / Moderate Conditions / Mixed Insurance
+2793291101,1,48677,0.4212432473562015,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793291102,0,15177,0.0571004961581571,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793294101,0,9784,0.1999567310250506,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793299101,1,60325,0.2350217810219222,3,Elderly / Moderate Conditions / Mixed Insurance
+2793306101,0,15230,0.0994284475099965,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793315102,0,12875,0.4949329252912452,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793318102,0,7484,0.0637930455490014,0,Elderly / Moderate Conditions / Mixed Insurance
+2793318103,0,12652,0.0842737496455553,0,Elderly / Moderate Conditions / Mixed Insurance
+2793320102,0,12721,0.4428820676641426,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793322101,0,12479,0.0580529560674392,0,Elderly / Moderate Conditions / Mixed Insurance
+2793322102,0,3487,0.0747459057626146,3,Elderly / Moderate Conditions / Mixed Insurance
+2793335102,1,574675,0.5674431644113175,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793337101,1,113273,0.0569737471679274,0,Elderly / Moderate Conditions / Mixed Insurance
+2793339102,0,28153,0.1062922939293471,3,Elderly / Moderate Conditions / Mixed Insurance
+2793344101,0,2568,0.0506968644132245,0,Elderly / Moderate Conditions / Mixed Insurance
+2793346102,0,13413,0.1614671652852203,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793347102,0,3611,0.043887490709707,0,Elderly / Moderate Conditions / Mixed Insurance
+2793361101,0,1076,0.5762179143647904,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793362102,0,13966,0.2866045627507126,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793363101,0,737,0.1555738048166984,0,Elderly / Moderate Conditions / Mixed Insurance
+2793382101,0,10286,0.2411991515309721,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793388101,0,17000,0.0932728214607849,3,Elderly / Moderate Conditions / Mixed Insurance
+2793390101,0,28403,0.3216534112096046,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793390102,0,8891,0.1284107048296933,0,Elderly / Moderate Conditions / Mixed Insurance
+2793395101,0,6171,0.0453189191376557,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793400101,0,23822,0.3107985107489834,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793400102,1,40838,0.0465919027496254,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793406102,0,22041,0.3284594555553879,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793416101,1,103417,0.5763512975832853,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793416103,0,5850,0.040443486969114,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793421102,0,78,0.0480941177615856,0,Elderly / Moderate Conditions / Mixed Insurance
+2793430101,1,40444,0.0595110933513112,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793437101,1,59954,0.5280942348899862,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793437102,1,44374,0.4431750232107544,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793438101,0,6843,0.0876374456166089,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793442101,0,14581,0.4155086116855808,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793444102,0,9995,0.0475210335458578,3,Elderly / Moderate Conditions / Mixed Insurance
+2793453101,0,5502,0.0533948384313957,3,Elderly / Moderate Conditions / Mixed Insurance
+2793453102,0,767,0.0447438297866215,3,Elderly / Moderate Conditions / Mixed Insurance
+2793454102,0,32224,0.1607135511932527,0,Elderly / Moderate Conditions / Mixed Insurance
+2793460101,1,94386,0.6021632840562832,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793465101,0,7852,0.0464890568092985,0,Elderly / Moderate Conditions / Mixed Insurance
+2793466101,1,87064,0.1832677065919565,3,Elderly / Moderate Conditions / Mixed Insurance
+2793474101,0,20657,0.103260218052488,0,Elderly / Moderate Conditions / Mixed Insurance
+2793481102,0,17451,0.2357295110543621,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793497101,0,5295,0.0992408526698098,0,Elderly / Moderate Conditions / Mixed Insurance
+2793512101,0,6799,0.2893235320033074,3,Elderly / Moderate Conditions / Mixed Insurance
+2793516102,0,27111,0.5583901102247391,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793524101,0,7655,0.0505362995316695,0,Elderly / Moderate Conditions / Mixed Insurance
+2793529101,1,77187,0.1372333177078948,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793529102,0,21482,0.2964052742961961,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793538101,0,1392,0.0508703955162106,0,Elderly / Moderate Conditions / Mixed Insurance
+2793538102,0,24147,0.1422139268895221,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793539101,0,4724,0.1081030561158483,3,Elderly / Moderate Conditions / Mixed Insurance
+2793539108,0,0,0.0586964346232289,3,Elderly / Moderate Conditions / Mixed Insurance
+2793545101,0,11556,0.3291933119435455,3,Elderly / Moderate Conditions / Mixed Insurance
+2793545103,0,12018,0.0597866311468812,3,Elderly / Moderate Conditions / Mixed Insurance
+2793561101,0,8726,0.0421170236851228,0,Elderly / Moderate Conditions / Mixed Insurance
+2793570101,0,6801,0.069948662455218,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793575101,0,15735,0.5155911875415813,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793576101,0,5127,0.0602196161035913,3,Elderly / Moderate Conditions / Mixed Insurance
+2793578101,0,4678,0.0776223580223812,3,Elderly / Moderate Conditions / Mixed Insurance
+2793581102,0,31077,0.1964847732148222,3,Elderly / Moderate Conditions / Mixed Insurance
+2793587102,0,747,0.0656657851667949,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793589101,1,53019,0.273888411353501,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793590102,0,9033,0.4283051040827358,3,Elderly / Moderate Conditions / Mixed Insurance
+2793594101,0,13763,0.2042086120589616,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793600101,0,15674,0.0569541620868085,0,Elderly / Moderate Conditions / Mixed Insurance
+2793603101,0,4928,0.2257027271387328,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793609101,0,18160,0.099100645005541,3,Elderly / Moderate Conditions / Mixed Insurance
+2793612101,0,14829,0.0847865303741772,3,Elderly / Moderate Conditions / Mixed Insurance
+2793612102,0,15835,0.0505703239638503,3,Elderly / Moderate Conditions / Mixed Insurance
+2793619102,0,20721,0.1894773521859127,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793621101,0,23246,0.138554032315151,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793637101,0,10214,0.0880575080679102,3,Elderly / Moderate Conditions / Mixed Insurance
+2793639101,0,37284,0.1133144502299191,0,Elderly / Moderate Conditions / Mixed Insurance
+2793642105,0,29255,0.264114977007614,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793643101,0,9432,0.0555441586653707,0,Elderly / Moderate Conditions / Mixed Insurance
+2793643102,0,19166,0.0672260973916062,0,Elderly / Moderate Conditions / Mixed Insurance
+2793688101,0,18059,0.0406702017676561,0,Elderly / Moderate Conditions / Mixed Insurance
+2793688102,0,10812,0.1991648223221802,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793689102,0,320,0.0609392429354602,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793693102,0,751,0.1349652297252765,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793694101,0,1657,0.1953050507318468,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793695101,0,11586,0.3957333303553806,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793697101,0,18765,0.0592613045453805,0,Elderly / Moderate Conditions / Mixed Insurance
+2793699101,0,29176,0.0399993909681131,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793700101,0,24933,0.1454844575687581,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793715101,1,134791,0.5361901526413918,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793716101,0,3119,0.0455229056652087,0,Elderly / Moderate Conditions / Mixed Insurance
+2793722101,0,18746,0.068382601626074,0,Elderly / Moderate Conditions / Mixed Insurance
+2793729101,0,22552,0.1045166927324677,3,Elderly / Moderate Conditions / Mixed Insurance
+2793743101,0,4497,0.0909151500764245,0,Elderly / Moderate Conditions / Mixed Insurance
+2793744101,1,67737,0.1261196462962274,0,Elderly / Moderate Conditions / Mixed Insurance
+2793775101,0,3765,0.0623704645301404,0,Elderly / Moderate Conditions / Mixed Insurance
+2793775105,1,144315,0.1635550860658193,0,Elderly / Moderate Conditions / Mixed Insurance
+2793782101,0,2403,0.066898628668607,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793782102,0,3152,0.0609396504500406,3,Elderly / Moderate Conditions / Mixed Insurance
+2793783101,0,18322,0.2719985488727243,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793789102,0,1720,0.0398011986435682,3,Elderly / Moderate Conditions / Mixed Insurance
+2793791101,1,189843,0.5587521214241211,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793791102,0,2698,0.1211242144884504,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793798102,0,9437,0.0589085608606112,0,Elderly / Moderate Conditions / Mixed Insurance
+2793802101,1,70994,0.2403114077372404,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793802102,0,751,0.0559562650037338,0,Elderly / Moderate Conditions / Mixed Insurance
+2793805101,0,7457,0.0715638195433893,0,Elderly / Moderate Conditions / Mixed Insurance
+2793823101,0,13822,0.099392330535162,3,Elderly / Moderate Conditions / Mixed Insurance
+2793826101,0,8854,0.0923436163492161,0,Elderly / Moderate Conditions / Mixed Insurance
+2793831102,0,20920,0.3902532359603525,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793841102,0,34653,0.0778933703275606,0,Elderly / Moderate Conditions / Mixed Insurance
+2793849101,1,43283,0.3951218278741225,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2793857101,1,38933,0.1183914594742551,0,Elderly / Moderate Conditions / Mixed Insurance
+2793858101,0,7149,0.0446775498180389,0,Elderly / Moderate Conditions / Mixed Insurance
+2793860103,0,17002,0.20620580016931,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793867101,0,2862,0.0648864239921417,3,Elderly / Moderate Conditions / Mixed Insurance
+2793873101,0,2367,0.0627607004071213,0,Elderly / Moderate Conditions / Mixed Insurance
+2793873102,0,29881,0.0510096479442853,3,Elderly / Moderate Conditions / Mixed Insurance
+2793875101,0,2278,0.0759042871049229,3,Elderly / Moderate Conditions / Mixed Insurance
+2793877101,0,10269,0.0537008094144047,0,Elderly / Moderate Conditions / Mixed Insurance
+2793881101,0,7014,0.2749210663154129,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793881102,0,18184,0.0582277188698617,0,Elderly / Moderate Conditions / Mixed Insurance
+2793888102,1,98491,0.3583501659144142,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793891101,0,18534,0.0416052760141854,0,Elderly / Moderate Conditions / Mixed Insurance
+2793902102,0,7606,0.0592370286707375,3,Elderly / Moderate Conditions / Mixed Insurance
+2793903101,0,8155,0.0964526438762274,0,Elderly / Moderate Conditions / Mixed Insurance
+2793925101,0,17280,0.5229075192247251,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793934102,0,7933,0.2107208558969272,3,Elderly / Moderate Conditions / Mixed Insurance
+2793944102,0,5470,0.0927078063097185,3,Elderly / Moderate Conditions / Mixed Insurance
+2793945102,1,43044,0.1445033438712373,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793950101,0,24058,0.441980562586426,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793953101,0,32984,0.3785598355759411,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793962101,0,14544,0.0658854561017688,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793964101,0,4134,0.0403205683100629,0,Elderly / Moderate Conditions / Mixed Insurance
+2793964102,0,5606,0.0504671363761035,0,Elderly / Moderate Conditions / Mixed Insurance
+2793971101,0,15946,0.1992329092354342,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2793971102,1,69323,0.2510126865727822,3,Elderly / Moderate Conditions / Mixed Insurance
+2793983101,0,439,0.1046107461285106,3,Elderly / Moderate Conditions / Mixed Insurance
+2793988101,1,72972,0.6290147911354682,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794013101,0,16055,0.0726406632021244,3,Elderly / Moderate Conditions / Mixed Insurance
+2794018101,1,66973,0.5925847918413308,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794025103,0,9177,0.1980618328731626,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794028103,0,20069,0.0402905208186416,3,Elderly / Moderate Conditions / Mixed Insurance
+2794033101,0,3041,0.0929349514127505,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794036101,1,40353,0.1462381782194438,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794044101,1,38813,0.4146352862221072,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794044102,0,5922,0.0640394329050967,3,Elderly / Moderate Conditions / Mixed Insurance
+2794046101,0,6232,0.0951815020174582,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794046102,0,8590,0.0652753503989202,0,Elderly / Moderate Conditions / Mixed Insurance
+2794048102,1,92227,0.5327572688520383,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794052101,0,12243,0.1516151370837784,0,Elderly / Moderate Conditions / Mixed Insurance
+2794064102,0,9684,0.06091584451464,0,Elderly / Moderate Conditions / Mixed Insurance
+2794071101,0,3941,0.0983178341908053,3,Elderly / Moderate Conditions / Mixed Insurance
+2794078101,0,2570,0.0423576122796115,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794081102,1,98175,0.5392390023976243,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794082101,0,28746,0.3984161846010167,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794082102,0,19493,0.5324618252281591,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794082103,0,34006,0.1370859186138017,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794086101,1,66834,0.5796228230073462,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794090101,0,6347,0.4235417297858989,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794090103,0,18872,0.3880503108098839,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794095101,0,9,0.0948529429390691,3,Elderly / Moderate Conditions / Mixed Insurance
+2794099101,0,2388,0.0708526410070308,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794128101,0,11881,0.1615512139370513,3,Elderly / Moderate Conditions / Mixed Insurance
+2794137101,0,30211,0.5391504582297968,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794138101,0,14124,0.1547345879719969,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794156101,0,26450,0.1691608471372902,0,Elderly / Moderate Conditions / Mixed Insurance
+2794168101,0,7615,0.0562703911330985,0,Elderly / Moderate Conditions / Mixed Insurance
+2794169101,0,3709,0.056649958128382,0,Elderly / Moderate Conditions / Mixed Insurance
+2794189101,0,1119,0.1017369811125009,0,Elderly / Moderate Conditions / Mixed Insurance
+2794189102,1,50464,0.3826436093899514,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794192101,1,268989,0.521100337365975,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794195101,0,4205,0.3553331083129396,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794226101,1,67258,0.5852351451994469,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794226102,0,22096,0.3417957353875666,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794229101,0,34015,0.5429180406661219,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794238101,0,9645,0.0462329710117956,0,Elderly / Moderate Conditions / Mixed Insurance
+2794246101,0,19930,0.272645601235629,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794246102,0,9074,0.1100104617852439,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794253101,0,12099,0.0538362780245424,0,Elderly / Moderate Conditions / Mixed Insurance
+2794259102,0,9500,0.0825314409218951,3,Elderly / Moderate Conditions / Mixed Insurance
+2794260101,0,4484,0.1357549329592791,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794281101,0,7706,0.0952608569146733,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794302102,0,16682,0.1493070397418278,3,Elderly / Moderate Conditions / Mixed Insurance
+2794304102,0,12044,0.0446178626182358,0,Elderly / Moderate Conditions / Mixed Insurance
+2794306101,0,12337,0.0478385148859244,0,Elderly / Moderate Conditions / Mixed Insurance
+2794310101,0,5932,0.0578290729597418,0,Elderly / Moderate Conditions / Mixed Insurance
+2794315102,1,39078,0.369880544084226,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794320101,0,25678,0.0450557733902663,3,Elderly / Moderate Conditions / Mixed Insurance
+2794342101,1,89878,0.5745070401133133,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794347101,1,92652,0.491668231346507,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794354101,1,84038,0.5404982415547492,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794369101,0,10934,0.2970110131331089,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794370101,0,10893,0.0395006323825812,0,Elderly / Moderate Conditions / Mixed Insurance
+2794376101,0,993,0.0456042908025366,0,Elderly / Moderate Conditions / Mixed Insurance
+2794387101,0,4120,0.0464531566671566,0,Elderly / Moderate Conditions / Mixed Insurance
+2794387102,1,44804,0.5452483354388622,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794391101,1,87127,0.1417323767383724,3,Elderly / Moderate Conditions / Mixed Insurance
+2794392102,0,5449,0.0749934496952466,0,Elderly / Moderate Conditions / Mixed Insurance
+2794394101,0,2700,0.0428601616631686,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794396101,0,12602,0.5183413732675343,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794396102,0,1052,0.2459989643109998,3,Elderly / Moderate Conditions / Mixed Insurance
+2794406101,1,63914,0.4153366760313796,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794408101,1,41179,0.3334872230889018,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794411102,0,8672,0.0675213091197793,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794413101,0,1154,0.0544598524232117,3,Elderly / Moderate Conditions / Mixed Insurance
+2794414101,0,1178,0.1548795232061222,3,Elderly / Moderate Conditions / Mixed Insurance
+2794415101,0,7897,0.1161521112817841,3,Elderly / Moderate Conditions / Mixed Insurance
+2794419101,1,38640,0.0835207732927993,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794423101,0,25975,0.2311024691990701,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794430101,0,7018,0.109810723824501,0,Elderly / Moderate Conditions / Mixed Insurance
+2794430102,0,23462,0.2895740845965011,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794439101,0,8614,0.0941788128566498,0,Elderly / Moderate Conditions / Mixed Insurance
+2794453101,0,5262,0.1191029938073538,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794453102,0,7084,0.1047946017455809,3,Elderly / Moderate Conditions / Mixed Insurance
+2794458102,0,23090,0.4550795793612298,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794462102,0,873,0.0921681471314283,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794465101,0,5268,0.3471781413099323,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794465102,0,6885,0.0596497356292242,3,Elderly / Moderate Conditions / Mixed Insurance
+2794476102,0,5718,0.0788277026408568,0,Elderly / Moderate Conditions / Mixed Insurance
+2794478101,0,22156,0.0782434979217162,0,Elderly / Moderate Conditions / Mixed Insurance
+2794478102,1,44072,0.541646111044459,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794480102,0,8194,0.4094741427792386,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794489101,0,321,0.2097940868988626,3,Elderly / Moderate Conditions / Mixed Insurance
+2794489102,0,2367,0.0707341110433762,0,Elderly / Moderate Conditions / Mixed Insurance
+2794518102,0,12749,0.0805044112096821,0,Elderly / Moderate Conditions / Mixed Insurance
+2794528101,0,36102,0.4660237340607762,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794536101,0,18550,0.3740388589070074,3,Elderly / Moderate Conditions / Mixed Insurance
+2794541102,0,11983,0.0843423732539216,0,Elderly / Moderate Conditions / Mixed Insurance
+2794541103,0,16286,0.0610745969051672,0,Elderly / Moderate Conditions / Mixed Insurance
+2794545101,1,84734,0.4433624883335986,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794550101,0,14260,0.4385484607478604,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794551102,0,4062,0.2321729107760486,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794572102,0,14633,0.0502746334249695,0,Elderly / Moderate Conditions / Mixed Insurance
+2794573101,0,5038,0.0815834960014319,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794580101,0,14680,0.0473163063363532,0,Elderly / Moderate Conditions / Mixed Insurance
+2794591102,0,8196,0.1255973832567415,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794594101,0,8137,0.0726666078905753,3,Elderly / Moderate Conditions / Mixed Insurance
+2794605101,0,9326,0.0963161138173013,3,Elderly / Moderate Conditions / Mixed Insurance
+2794615102,0,1012,0.076483743702637,3,Elderly / Moderate Conditions / Mixed Insurance
+2794624101,1,45036,0.0416581106699042,3,Elderly / Moderate Conditions / Mixed Insurance
+2794631101,1,43712,0.1679439865075388,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794634101,1,168495,0.3622059003799676,3,Elderly / Moderate Conditions / Mixed Insurance
+2794634102,0,18784,0.1343636159577074,0,Elderly / Moderate Conditions / Mixed Insurance
+2794639101,0,18792,0.0868577798536005,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794647101,0,5038,0.0792351645185652,0,Elderly / Moderate Conditions / Mixed Insurance
+2794648101,0,1079,0.1571455200306914,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794675101,0,3465,0.1131244861568663,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794681102,1,123669,0.2562732907704484,3,Elderly / Moderate Conditions / Mixed Insurance
+2794715101,1,38043,0.5390223445926837,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794724101,0,37248,0.3465271837433775,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794725101,0,8956,0.0560035284292823,0,Elderly / Moderate Conditions / Mixed Insurance
+2794733101,0,3251,0.0444055790842472,0,Elderly / Moderate Conditions / Mixed Insurance
+2794735101,0,17750,0.1780327710111658,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794736101,0,1853,0.0483599627905432,0,Elderly / Moderate Conditions / Mixed Insurance
+2794747102,1,50314,0.543710177890025,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794769101,0,15131,0.1501721142636371,0,Elderly / Moderate Conditions / Mixed Insurance
+2794769102,0,6643,0.0407794183059292,0,Elderly / Moderate Conditions / Mixed Insurance
+2794776101,1,70272,0.5439283723093189,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794783101,0,1701,0.074834777312083,3,Elderly / Moderate Conditions / Mixed Insurance
+2794784101,1,57288,0.6091068157490972,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794786101,0,30875,0.5079525262503477,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794790101,0,16061,0.2152885442422652,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794790102,0,24573,0.440296887700775,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794794101,0,2761,0.0658725129625546,0,Elderly / Moderate Conditions / Mixed Insurance
+2794805102,0,10433,0.1080717288036905,0,Elderly / Moderate Conditions / Mixed Insurance
+2794806101,0,18011,0.2787673536254403,3,Elderly / Moderate Conditions / Mixed Insurance
+2794811101,1,54134,0.5576220765992794,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794815101,1,56659,0.5735488462603736,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794826101,0,8647,0.2400329618644061,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794844102,0,33273,0.1844028554390586,0,Elderly / Moderate Conditions / Mixed Insurance
+2794852101,0,2796,0.0439072719090093,0,Elderly / Moderate Conditions / Mixed Insurance
+2794865101,0,14024,0.0471461028006226,3,Elderly / Moderate Conditions / Mixed Insurance
+2794888101,0,6976,0.2663706829287303,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794892101,0,10260,0.0521631655465615,0,Elderly / Moderate Conditions / Mixed Insurance
+2794897101,0,16969,0.1575172152937127,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794903102,0,1714,0.0713073725793176,3,Elderly / Moderate Conditions / Mixed Insurance
+2794905101,0,7121,0.0691222649162298,0,Elderly / Moderate Conditions / Mixed Insurance
+2794912102,1,61284,0.0637551919344581,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794920101,0,4180,0.0641549886063679,0,Elderly / Moderate Conditions / Mixed Insurance
+2794927101,0,18898,0.0441134645421066,0,Elderly / Moderate Conditions / Mixed Insurance
+2794927102,0,10015,0.0687317132211789,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794928101,1,51253,0.4841973074441894,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794930102,0,7572,0.076570779153662,3,Elderly / Moderate Conditions / Mixed Insurance
+2794940102,0,10859,0.0574119139126404,3,Elderly / Moderate Conditions / Mixed Insurance
+2794946102,0,16107,0.1711558845790367,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794947101,0,25945,0.3298628443438273,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794949101,0,21839,0.4093930945339557,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2794949105,0,5791,0.1072007448040359,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2794974101,1,61383,0.3105955211787077,3,Elderly / Moderate Conditions / Mixed Insurance
+2794977101,0,9979,0.0729509409529225,0,Elderly / Moderate Conditions / Mixed Insurance
+2795031101,1,485624,0.5515619818756562,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795034101,0,15189,0.1326804483087102,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795041101,0,10956,0.3198804563542195,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795047101,0,1267,0.0660103570920482,3,Elderly / Moderate Conditions / Mixed Insurance
+2795049101,1,46946,0.1633747931076477,3,Elderly / Moderate Conditions / Mixed Insurance
+2795052102,0,8809,0.1021373479866316,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795061101,0,13552,0.0415038267196231,3,Elderly / Moderate Conditions / Mixed Insurance
+2795066101,0,1805,0.227039651449402,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795074101,0,7000,0.0461168364780496,0,Elderly / Moderate Conditions / Mixed Insurance
+2795079101,1,78349,0.0674876283539339,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795083101,1,99910,0.1112551893262406,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795092103,0,2592,0.5089573706232372,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795117105,1,49669,0.3458383825510502,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795119101,1,43407,0.1786385900777521,0,Elderly / Moderate Conditions / Mixed Insurance
+2795122102,1,108624,0.3678478840236664,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795124101,0,19383,0.0577066911031379,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795129102,0,13775,0.3226526869734901,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795135107,1,104425,0.5273282045725289,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795138101,0,13620,0.0435946024112827,3,Elderly / Moderate Conditions / Mixed Insurance
+2795154101,1,304662,0.0611605871407913,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795156101,0,2412,0.0543449386861774,3,Elderly / Moderate Conditions / Mixed Insurance
+2795156102,0,12703,0.0551431559877214,3,Elderly / Moderate Conditions / Mixed Insurance
+2795162104,0,36182,0.5548936567532534,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795165101,1,40655,0.1517495251057636,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795168105,0,0,0.2492565676285533,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795174101,0,5659,0.3088460612617488,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795177101,0,17824,0.1124313504739457,3,Elderly / Moderate Conditions / Mixed Insurance
+2795189101,0,23968,0.1735671694820019,3,Elderly / Moderate Conditions / Mixed Insurance
+2795202101,1,45032,0.4947608349811009,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795205101,0,12113,0.0795506628605847,0,Elderly / Moderate Conditions / Mixed Insurance
+2795205102,0,26137,0.2891942037837736,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795211102,1,72547,0.4361850099409158,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795213105,0,1460,0.1216349478556977,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795214101,0,7412,0.1070520341461183,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795223101,0,19263,0.0540611725751045,0,Elderly / Moderate Conditions / Mixed Insurance
+2795223102,0,938,0.0562564103673889,0,Elderly / Moderate Conditions / Mixed Insurance
+2795225102,0,3198,0.0445021844178159,0,Elderly / Moderate Conditions / Mixed Insurance
+2795231101,0,8454,0.31406191339861,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795247101,0,4057,0.0799931710174675,0,Elderly / Moderate Conditions / Mixed Insurance
+2795248101,0,8255,0.2552068369981061,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795252101,0,12982,0.1874891570715149,0,Elderly / Moderate Conditions / Mixed Insurance
+2795253102,0,11805,0.0396189156415926,0,Elderly / Moderate Conditions / Mixed Insurance
+2795257101,0,11961,0.0488543785863517,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795261101,0,8609,0.1198739775609325,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795281101,0,30105,0.0446343768666582,3,Elderly / Moderate Conditions / Mixed Insurance
+2795289101,0,14917,0.437842107426104,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795290101,0,26118,0.0763518041049663,3,Elderly / Moderate Conditions / Mixed Insurance
+2795293101,1,63670,0.1173276585180963,3,Elderly / Moderate Conditions / Mixed Insurance
+2795297101,0,3840,0.2160491309085083,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795308101,0,10400,0.3299531459156352,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795311101,0,33350,0.0448568957005726,0,Elderly / Moderate Conditions / Mixed Insurance
+2795314101,0,3302,0.0770238583052829,0,Elderly / Moderate Conditions / Mixed Insurance
+2795325102,1,160537,0.5864847127271293,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795327101,0,7696,0.132539650627966,3,Elderly / Moderate Conditions / Mixed Insurance
+2795327102,0,7701,0.0404320968648948,0,Elderly / Moderate Conditions / Mixed Insurance
+2795340101,0,13477,0.3737439479545431,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795344101,0,28950,0.3062990135098122,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795344102,0,772,0.0767023150502875,3,Elderly / Moderate Conditions / Mixed Insurance
+2795345101,0,31132,0.1619472752569323,0,Elderly / Moderate Conditions / Mixed Insurance
+2795349101,1,215057,0.5340257314006763,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795349102,0,13519,0.061476948791106,3,Elderly / Moderate Conditions / Mixed Insurance
+2795361101,0,17987,0.1677106008619014,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795369101,0,16905,0.082469498515276,0,Elderly / Moderate Conditions / Mixed Insurance
+2795371101,1,38149,0.4846454779788926,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795372101,0,2344,0.0643198835017588,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795373101,0,3889,0.077091029532823,0,Elderly / Moderate Conditions / Mixed Insurance
+2795395101,0,12472,0.1057077084981379,3,Elderly / Moderate Conditions / Mixed Insurance
+2795399101,0,17316,0.4437181437667956,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795399102,0,8661,0.0565016622828428,0,Elderly / Moderate Conditions / Mixed Insurance
+2795405102,0,2098,0.0411175735221816,0,Elderly / Moderate Conditions / Mixed Insurance
+2795407101,0,13508,0.1440604200936517,3,Elderly / Moderate Conditions / Mixed Insurance
+2795407102,0,2389,0.0511201255421111,3,Elderly / Moderate Conditions / Mixed Insurance
+2795408101,1,52977,0.3336415704480777,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795412102,0,940,0.0475604329022957,0,Elderly / Moderate Conditions / Mixed Insurance
+2795416106,0,5944,0.1054641609332275,3,Elderly / Moderate Conditions / Mixed Insurance
+2795428102,0,912,0.0857402307599314,3,Elderly / Moderate Conditions / Mixed Insurance
+2795429102,0,35203,0.0550379919086041,0,Elderly / Moderate Conditions / Mixed Insurance
+2795434101,0,15993,0.1195573829232783,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795449101,0,25103,0.1892941007246203,0,Elderly / Moderate Conditions / Mixed Insurance
+2795449102,0,2247,0.1762951238368261,0,Elderly / Moderate Conditions / Mixed Insurance
+2795459101,0,2509,0.0646385806323341,0,Elderly / Moderate Conditions / Mixed Insurance
+2795462102,0,1824,0.162237852841352,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795479101,1,91933,0.290302951113787,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795485102,0,3385,0.054294123375335,0,Elderly / Moderate Conditions / Mixed Insurance
+2795492102,0,356,0.0734361022364668,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795499101,0,3613,0.0436744594093759,0,Elderly / Moderate Conditions / Mixed Insurance
+2795501101,1,125625,0.5623919682934336,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795513102,1,41761,0.1529050236627701,3,Elderly / Moderate Conditions / Mixed Insurance
+2795520101,1,60189,0.213266998965977,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795523102,0,18008,0.0799011707887855,0,Elderly / Moderate Conditions / Mixed Insurance
+2795529102,0,6254,0.1277545408250214,3,Elderly / Moderate Conditions / Mixed Insurance
+2795529105,0,33083,0.0767646201203179,3,Elderly / Moderate Conditions / Mixed Insurance
+2795532101,0,7032,0.1161363034198193,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795538101,0,30386,0.0649773699161938,0,Elderly / Moderate Conditions / Mixed Insurance
+2795544101,1,55856,0.0762757023680583,0,Elderly / Moderate Conditions / Mixed Insurance
+2795559101,0,17345,0.1851702819609321,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795561102,0,909,0.058960267348857,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795563102,0,10556,0.0426573106006562,0,Elderly / Moderate Conditions / Mixed Insurance
+2795566101,1,43549,0.0943123169014664,0,Elderly / Moderate Conditions / Mixed Insurance
+2795593101,1,94453,0.1171192140840614,3,Elderly / Moderate Conditions / Mixed Insurance
+2795594102,0,30919,0.0458512573458022,0,Elderly / Moderate Conditions / Mixed Insurance
+2795615101,1,38395,0.0522603754185585,0,Elderly / Moderate Conditions / Mixed Insurance
+2795615102,0,4427,0.0507280738918819,0,Elderly / Moderate Conditions / Mixed Insurance
+2795616101,0,6337,0.0418594646351762,0,Elderly / Moderate Conditions / Mixed Insurance
+2795616102,0,3027,0.0551379768929295,3,Elderly / Moderate Conditions / Mixed Insurance
+2795631101,0,7203,0.0426358518657057,0,Elderly / Moderate Conditions / Mixed Insurance
+2795640105,0,19528,0.0650277946156007,3,Elderly / Moderate Conditions / Mixed Insurance
+2795650101,0,12992,0.0886317394000247,0,Elderly / Moderate Conditions / Mixed Insurance
+2795652101,0,30003,0.2859535411229018,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795660102,0,4553,0.0737132538984406,3,Elderly / Moderate Conditions / Mixed Insurance
+2795663101,1,46336,0.059029536000413,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795667101,0,2842,0.0481307856094116,0,Elderly / Moderate Conditions / Mixed Insurance
+2795667102,0,21329,0.0957106653564647,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795669101,0,4773,0.0570757540685772,0,Elderly / Moderate Conditions / Mixed Insurance
+2795669102,1,38048,0.058763507530217,3,Elderly / Moderate Conditions / Mixed Insurance
+2795685101,1,64260,0.5064865245582357,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795686101,0,9360,0.0585996541453015,0,Elderly / Moderate Conditions / Mixed Insurance
+2795692101,0,5544,0.0637646764363845,0,Elderly / Moderate Conditions / Mixed Insurance
+2795696102,0,3218,0.4274700003090962,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795701102,0,25944,0.2155713842805893,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795727102,1,97407,0.3550667669896526,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795728101,0,5317,0.069744269099014,0,Elderly / Moderate Conditions / Mixed Insurance
+2795728102,0,6661,0.0444249687390807,0,Elderly / Moderate Conditions / Mixed Insurance
+2795730101,0,9411,0.1654107370272491,3,Elderly / Moderate Conditions / Mixed Insurance
+2795730102,0,4079,0.0760878295399365,0,Elderly / Moderate Conditions / Mixed Insurance
+2795741102,0,30645,0.3307112923120044,3,Elderly / Moderate Conditions / Mixed Insurance
+2795742101,0,6420,0.0598234185477825,3,Elderly / Moderate Conditions / Mixed Insurance
+2795748101,0,3301,0.5875107604974479,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795754101,0,22067,0.3212474752906492,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795754102,0,18708,0.1006502264791849,0,Elderly / Moderate Conditions / Mixed Insurance
+2795754103,0,19513,0.1007515680707469,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795754104,0,34180,0.2715468785417277,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795754107,0,13029,0.4131956544735541,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795755101,0,4027,0.1984712852696285,0,Elderly / Moderate Conditions / Mixed Insurance
+2795758101,0,1922,0.4528475488318371,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795764102,0,0,0.0857708243867747,3,Elderly / Moderate Conditions / Mixed Insurance
+2795770101,1,64866,0.1951086143069529,3,Elderly / Moderate Conditions / Mixed Insurance
+2795771101,0,27724,0.0443458797386102,0,Elderly / Moderate Conditions / Mixed Insurance
+2795774102,0,16736,0.1349318639134417,3,Elderly / Moderate Conditions / Mixed Insurance
+2795789101,0,17482,0.1526046365572094,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795793101,1,57395,0.0568283078176723,3,Elderly / Moderate Conditions / Mixed Insurance
+2795797101,0,35666,0.4424743215071819,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795801104,1,54551,0.2465562647626366,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795815101,0,12716,0.2516915729549348,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795816101,0,8215,0.1574988600745381,0,Elderly / Moderate Conditions / Mixed Insurance
+2795819101,0,25469,0.165756481834573,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795821101,0,1221,0.0462485875858221,0,Elderly / Moderate Conditions / Mixed Insurance
+2795823101,0,6358,0.0553558198751515,0,Elderly / Moderate Conditions / Mixed Insurance
+2795823102,0,8446,0.0572011622829913,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795826101,0,15058,0.1399678111707781,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795834101,0,19249,0.0760859155606884,0,Elderly / Moderate Conditions / Mixed Insurance
+2795835101,0,9564,0.0944457880823172,0,Elderly / Moderate Conditions / Mixed Insurance
+2795840101,0,13381,0.063064516221129,0,Elderly / Moderate Conditions / Mixed Insurance
+2795847101,0,7924,0.0439818933998909,3,Elderly / Moderate Conditions / Mixed Insurance
+2795859102,1,72714,0.2166128001864203,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795862101,0,19679,0.1069589669855593,3,Elderly / Moderate Conditions / Mixed Insurance
+2795862102,0,4843,0.1797314373424842,3,Elderly / Moderate Conditions / Mixed Insurance
+2795863102,0,16581,0.0664149563326867,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795868101,0,27557,0.0814188054741483,0,Elderly / Moderate Conditions / Mixed Insurance
+2795868102,1,58056,0.2025076789249381,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795869101,0,15448,0.3881156028923521,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795870101,0,30450,0.3017069660091809,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795885101,0,3434,0.043885833557403,0,Elderly / Moderate Conditions / Mixed Insurance
+2795889101,0,13,0.0429942337775602,0,Elderly / Moderate Conditions / Mixed Insurance
+2795895103,0,1194,0.0394964549111974,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795905101,0,7191,0.0433679339568042,0,Elderly / Moderate Conditions / Mixed Insurance
+2795919102,1,86553,0.5538276709871542,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795922104,0,5355,0.28518827755976,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795923101,1,93656,0.1886131079588392,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795926101,0,3470,0.0574714908354441,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795932101,0,24412,0.1456455756885931,3,Elderly / Moderate Conditions / Mixed Insurance
+2795933101,1,40833,0.3132744973068092,3,Elderly / Moderate Conditions / Mixed Insurance
+2795936102,0,4843,0.0548149043767785,0,Elderly / Moderate Conditions / Mixed Insurance
+2795941101,0,17831,0.0590970853339831,0,Elderly / Moderate Conditions / Mixed Insurance
+2795942103,0,14516,0.0602942747127683,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795956101,0,8193,0.0592283668733749,0,Elderly / Moderate Conditions / Mixed Insurance
+2795971101,0,864,0.0467111166126661,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795974101,0,30112,0.2058422675158898,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795977102,0,4383,0.1371170889757801,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795979101,0,12996,0.0443582854504523,3,Elderly / Moderate Conditions / Mixed Insurance
+2795987102,0,16179,0.0940061763330617,0,Elderly / Moderate Conditions / Mixed Insurance
+2795994101,0,1720,0.0411737886667338,3,Elderly / Moderate Conditions / Mixed Insurance
+2795994103,0,31833,0.1501143820436787,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2795999101,0,16591,0.0584862908708341,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2795999102,0,3520,0.2085178770986042,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796013101,0,14104,0.4761178553704089,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796017101,1,94056,0.5365629591579523,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796018103,0,2032,0.0408510333370396,0,Elderly / Moderate Conditions / Mixed Insurance
+2796021101,0,18510,0.1495567945505136,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796035101,0,16100,0.0413775105672019,0,Elderly / Moderate Conditions / Mixed Insurance
+2796036101,0,11013,0.1161545242699755,3,Elderly / Moderate Conditions / Mixed Insurance
+2796036102,0,20511,0.0476187913805258,3,Elderly / Moderate Conditions / Mixed Insurance
+2796044101,0,7616,0.0423390262124983,0,Elderly / Moderate Conditions / Mixed Insurance
+2796049101,0,11009,0.3126585446816271,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796050101,0,3225,0.0409761180058411,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796055101,1,50637,0.0678802636834281,0,Elderly / Moderate Conditions / Mixed Insurance
+2796065102,0,23232,0.4608098845398144,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796088101,0,6048,0.0466532657124476,0,Elderly / Moderate Conditions / Mixed Insurance
+2796095101,1,67159,0.1922552427363141,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796100101,1,46610,0.5986141735932549,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796109101,0,1434,0.0404539350250664,0,Elderly / Moderate Conditions / Mixed Insurance
+2796109102,0,8096,0.0578805518424376,3,Elderly / Moderate Conditions / Mixed Insurance
+2796109103,0,1603,0.1058563386415192,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796110102,0,22954,0.0943561780039918,3,Elderly / Moderate Conditions / Mixed Insurance
+2796113102,0,2428,0.0899998466019584,0,Elderly / Moderate Conditions / Mixed Insurance
+2796121101,0,18080,0.0725619277536625,0,Elderly / Moderate Conditions / Mixed Insurance
+2796121102,0,31279,0.2562187361371528,0,Elderly / Moderate Conditions / Mixed Insurance
+2796126101,0,9337,0.0579963424903622,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796133101,1,79476,0.1905760988124258,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796139101,0,14020,0.0615031522419014,0,Elderly / Moderate Conditions / Mixed Insurance
+2796156101,0,26190,0.0585140058229751,0,Elderly / Moderate Conditions / Mixed Insurance
+2796161102,0,15870,0.0489609595976057,0,Elderly / Moderate Conditions / Mixed Insurance
+2796166102,0,11677,0.2147825902537753,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796167101,0,8830,0.0460838514962321,0,Elderly / Moderate Conditions / Mixed Insurance
+2796177101,0,2573,0.0405684831942637,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796177102,0,20655,0.4217482524099667,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796181101,1,58194,0.5737472198881719,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796193101,0,16082,0.148272022406733,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796194101,0,23893,0.4863158183155098,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796204103,0,9809,0.1906705163351597,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796210103,0,7718,0.0442065699980535,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796211101,1,92152,0.2472698966921976,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796218101,0,18865,0.2641107364805242,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796228101,0,20490,0.0913627463118538,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796229101,0,14204,0.0482169311763962,0,Elderly / Moderate Conditions / Mixed Insurance
+2796232101,0,29880,0.1557319966272365,0,Elderly / Moderate Conditions / Mixed Insurance
+2796233101,0,22721,0.1232904308789692,3,Elderly / Moderate Conditions / Mixed Insurance
+2796239101,1,43142,0.6022681304515729,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796252102,0,2286,0.0516242797429769,0,Elderly / Moderate Conditions / Mixed Insurance
+2796255101,0,23048,0.1653773146992658,0,Elderly / Moderate Conditions / Mixed Insurance
+2796258102,0,21193,0.0616586284955093,3,Elderly / Moderate Conditions / Mixed Insurance
+2796265101,0,11933,0.0607666914069754,0,Elderly / Moderate Conditions / Mixed Insurance
+2796273101,0,4823,0.0461982570070832,0,Elderly / Moderate Conditions / Mixed Insurance
+2796274101,0,15194,0.0883860478938793,3,Elderly / Moderate Conditions / Mixed Insurance
+2796278102,0,4962,0.2409424596684635,3,Elderly / Moderate Conditions / Mixed Insurance
+2796281101,0,17701,0.177066749216158,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796283102,0,7078,0.0561940132717215,3,Elderly / Moderate Conditions / Mixed Insurance
+2796287102,0,35606,0.1264545921496238,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796292101,0,28527,0.08258125078238,0,Elderly / Moderate Conditions / Mixed Insurance
+2796302102,0,8079,0.0509330459265028,0,Elderly / Moderate Conditions / Mixed Insurance
+2796305101,1,181616,0.4188731528764728,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796314101,0,4385,0.2455537012881653,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796314102,0,30,0.0666936972191065,0,Elderly / Moderate Conditions / Mixed Insurance
+2796318101,0,7951,0.0412050275208966,0,Elderly / Moderate Conditions / Mixed Insurance
+2796322101,0,21843,0.0613786972748741,0,Elderly / Moderate Conditions / Mixed Insurance
+2796332101,1,67997,0.6328579115917683,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796347101,0,12351,0.1278667633092775,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796349104,0,12075,0.1102241539006885,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796356102,0,10143,0.1150931401237368,3,Elderly / Moderate Conditions / Mixed Insurance
+2796357101,0,28642,0.0826065630847472,3,Elderly / Moderate Conditions / Mixed Insurance
+2796363101,0,21998,0.4976712919062677,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796363104,0,30462,0.1659090283129298,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796363105,0,5092,0.0539961203224973,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796368101,0,9468,0.313262307113527,3,Elderly / Moderate Conditions / Mixed Insurance
+2796372101,0,15909,0.1001589254269179,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796376101,0,25512,0.4818734621795691,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796384101,0,29138,0.3125918254685615,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796392101,0,6458,0.0698332615718941,0,Elderly / Moderate Conditions / Mixed Insurance
+2796401101,0,2377,0.0452034320927264,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796404101,0,14546,0.2904306505661828,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796404102,0,3963,0.046500222596279,0,Elderly / Moderate Conditions / Mixed Insurance
+2796412101,0,129,0.0705033777910506,3,Elderly / Moderate Conditions / Mixed Insurance
+2796413101,0,1560,0.0453217979960956,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796414101,0,5778,0.0448100517425056,0,Elderly / Moderate Conditions / Mixed Insurance
+2796416101,0,5979,0.0443451264271469,0,Elderly / Moderate Conditions / Mixed Insurance
+2796419102,0,3878,0.0704301532005324,3,Elderly / Moderate Conditions / Mixed Insurance
+2796422101,0,31484,0.1026484523266358,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796430102,1,51750,0.3507914273353713,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796435101,1,82510,0.551631273691084,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796439101,0,12630,0.0715624629093326,0,Elderly / Moderate Conditions / Mixed Insurance
+2796445101,0,10582,0.0779039902008563,0,Elderly / Moderate Conditions / Mixed Insurance
+2796446101,0,11351,0.29603425330993,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796452101,0,18699,0.2989704652088568,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796459101,1,62841,0.13540444283918,3,Elderly / Moderate Conditions / Mixed Insurance
+2796461101,0,3471,0.1731012489127526,3,Elderly / Moderate Conditions / Mixed Insurance
+2796461102,0,2811,0.048640606273055,0,Elderly / Moderate Conditions / Mixed Insurance
+2796462101,0,3915,0.0422502930952788,0,Elderly / Moderate Conditions / Mixed Insurance
+2796470101,0,28055,0.1862276677199162,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796491101,1,76709,0.1061698316045979,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796492101,0,14997,0.0494981753370015,0,Elderly / Moderate Conditions / Mixed Insurance
+2796500101,0,4265,0.0429993908718377,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796505101,0,2383,0.0436400144062546,0,Elderly / Moderate Conditions / Mixed Insurance
+2796513101,0,11923,0.0872013987215909,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796516101,0,16928,0.2686950223382985,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796526102,0,9203,0.3009620527722322,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796526103,0,12434,0.0765668643950873,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796528101,1,52201,0.3676602378210775,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796529101,1,91227,0.6235729888627876,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796542101,0,13122,0.0410534514846371,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796543101,0,5350,0.0420970258278668,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796548101,0,9345,0.0881127334119127,3,Elderly / Moderate Conditions / Mixed Insurance
+2796548102,1,49813,0.4674835387802439,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796560101,0,17661,0.2256917990180384,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796563101,0,8361,0.0860531936214434,0,Elderly / Moderate Conditions / Mixed Insurance
+2796563102,0,9066,0.0417109074309297,0,Elderly / Moderate Conditions / Mixed Insurance
+2796564101,0,6048,0.1144159547756431,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796564102,1,67290,0.5582983683015729,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796568101,0,27511,0.4715404677787559,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796573101,0,28982,0.1025919847377594,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796579101,0,32271,0.4388280430061241,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796583101,0,23015,0.2957720183852693,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796585101,0,19617,0.1149925186747977,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796599101,1,160989,0.5787508062457787,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796599102,0,9524,0.2735797714148123,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796602101,1,39461,0.1465546760584685,3,Elderly / Moderate Conditions / Mixed Insurance
+2796604101,1,129360,0.2425100698152957,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796613101,0,10546,0.1151299779121328,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796617101,0,8268,0.1022384969953627,0,Elderly / Moderate Conditions / Mixed Insurance
+2796620101,0,3331,0.0854049302313871,3,Elderly / Moderate Conditions / Mixed Insurance
+2796623102,0,7352,0.0618920133989666,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796633101,0,6734,0.0620432419414031,0,Elderly / Moderate Conditions / Mixed Insurance
+2796637102,1,42938,0.087745373004344,3,Elderly / Moderate Conditions / Mixed Insurance
+2796646101,1,76866,0.1202320475945641,0,Elderly / Moderate Conditions / Mixed Insurance
+2796656101,0,37112,0.0834577233618313,3,Elderly / Moderate Conditions / Mixed Insurance
+2796660101,0,4264,0.0787974012573018,0,Elderly / Moderate Conditions / Mixed Insurance
+2796663101,0,16506,0.0771195811444725,0,Elderly / Moderate Conditions / Mixed Insurance
+2796681101,1,47749,0.1047015463592687,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796681102,0,5398,0.5571510576202513,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796692101,0,12053,0.076984208482236,3,Elderly / Moderate Conditions / Mixed Insurance
+2796697101,0,36441,0.0499933291663462,0,Elderly / Moderate Conditions / Mixed Insurance
+2796697102,0,24837,0.2105784409306707,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796701101,0,22817,0.5764105260901496,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796702101,0,810,0.0521908346745555,0,Elderly / Moderate Conditions / Mixed Insurance
+2796707101,0,28890,0.0918767009424052,3,Elderly / Moderate Conditions / Mixed Insurance
+2796721101,0,10311,0.0579543123919673,3,Elderly / Moderate Conditions / Mixed Insurance
+2796727101,0,29877,0.4726242206002989,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796731101,0,36885,0.4180711734665998,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796737101,0,4195,0.0531898569589556,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796741101,1,111987,0.1837409044826208,3,Elderly / Moderate Conditions / Mixed Insurance
+2796743101,0,16173,0.457627663233351,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796754101,0,27993,0.0845249257793534,3,Elderly / Moderate Conditions / Mixed Insurance
+2796761101,0,1144,0.0431417646738462,3,Elderly / Moderate Conditions / Mixed Insurance
+2796764101,0,37613,0.1520180266825479,0,Elderly / Moderate Conditions / Mixed Insurance
+2796770102,0,1685,0.0659102477583521,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796777101,1,62290,0.2173491888298243,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796778103,0,7729,0.107324898307526,3,Elderly / Moderate Conditions / Mixed Insurance
+2796779101,0,7464,0.1997397542918098,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796783101,0,4384,0.0396226636166965,0,Elderly / Moderate Conditions / Mixed Insurance
+2796784102,0,1557,0.04255403231162,0,Elderly / Moderate Conditions / Mixed Insurance
+2796792101,0,3361,0.1322494490553831,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796825104,0,31423,0.1044895006288429,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796828101,0,14408,0.0979025676069703,0,Elderly / Moderate Conditions / Mixed Insurance
+2796839101,0,5150,0.0884494421040998,3,Elderly / Moderate Conditions / Mixed Insurance
+2796856101,0,716,0.0650527568400445,0,Elderly / Moderate Conditions / Mixed Insurance
+2796879101,0,9513,0.111044270587795,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796881101,0,18128,0.1334191435409946,3,Elderly / Moderate Conditions / Mixed Insurance
+2796894101,1,50844,0.4374486678547099,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796897101,0,6693,0.0430905074736861,0,Elderly / Moderate Conditions / Mixed Insurance
+2796901102,0,27770,0.1525214999301107,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796905101,1,46983,0.2748988576989147,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796906101,0,555,0.0729681469513188,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796906102,0,10368,0.2622124275066332,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796916101,0,8665,0.044947759763251,0,Elderly / Moderate Conditions / Mixed Insurance
+2796918101,0,8879,0.0610023741385481,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796931101,1,140867,0.3045358275093408,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796932101,0,10245,0.1754906221926751,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796941101,0,4264,0.2970249543927661,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796941102,1,136458,0.5270971506024962,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796942101,1,66732,0.0455346218046923,0,Elderly / Moderate Conditions / Mixed Insurance
+2796946102,0,2685,0.1460348815361625,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796955101,1,40166,0.5153708768243312,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2796956102,0,10563,0.0725329887146755,0,Elderly / Moderate Conditions / Mixed Insurance
+2796961102,0,31263,0.0655329545830036,3,Elderly / Moderate Conditions / Mixed Insurance
+2796970101,1,138978,0.2167652522965211,3,Elderly / Moderate Conditions / Mixed Insurance
+2796975101,0,14785,0.0800998813958536,3,Elderly / Moderate Conditions / Mixed Insurance
+2796978101,0,36267,0.3591930868673682,3,Elderly / Moderate Conditions / Mixed Insurance
+2796982101,0,11460,0.0853248601993462,3,Elderly / Moderate Conditions / Mixed Insurance
+2796983102,0,13029,0.0735358597571999,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2796990103,0,721,0.0956988352658661,3,Elderly / Moderate Conditions / Mixed Insurance
+2797008103,0,6119,0.0462409562861272,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797027101,0,2291,0.0869655206624543,0,Elderly / Moderate Conditions / Mixed Insurance
+2797032101,0,15792,0.4300182924896417,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797032102,0,19057,0.4676515432053487,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797037105,1,53830,0.4969264878705212,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797040101,0,8086,0.0599699617547566,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797042101,0,20439,0.2766260302416574,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797044101,0,2107,0.0465180763357739,3,Elderly / Moderate Conditions / Mixed Insurance
+2797044105,1,58289,0.467575225569013,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797049101,0,22143,0.0937968524567186,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797058106,1,38142,0.4554205213668529,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797059102,0,12866,0.1485097634823517,0,Elderly / Moderate Conditions / Mixed Insurance
+2797070101,0,1749,0.0706375779596427,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797070102,0,13561,0.1425149319692524,0,Elderly / Moderate Conditions / Mixed Insurance
+2797079101,0,9517,0.0500240803295245,0,Elderly / Moderate Conditions / Mixed Insurance
+2797086101,0,10272,0.2789299872462902,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797087101,0,2175,0.0530468062218444,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797087102,0,4942,0.0850052147906484,3,Elderly / Moderate Conditions / Mixed Insurance
+2797092101,1,52360,0.0539425193900287,3,Elderly / Moderate Conditions / Mixed Insurance
+2797107101,0,9121,0.2841863056807387,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797114101,1,74215,0.1005442144575951,0,Elderly / Moderate Conditions / Mixed Insurance
+2797121101,0,23336,0.1416054098908224,3,Elderly / Moderate Conditions / Mixed Insurance
+2797121102,0,16675,0.0450007996543078,0,Elderly / Moderate Conditions / Mixed Insurance
+2797126101,1,50017,0.1050395179352063,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797141101,0,20883,0.0480756682082556,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797141102,0,2900,0.0665905456418622,0,Elderly / Moderate Conditions / Mixed Insurance
+2797142101,0,9151,0.070042569386481,3,Elderly / Moderate Conditions / Mixed Insurance
+2797145101,1,41825,0.0791582686960921,3,Elderly / Moderate Conditions / Mixed Insurance
+2797153101,0,9032,0.0735833532053124,0,Elderly / Moderate Conditions / Mixed Insurance
+2797153102,1,62419,0.4892346624028607,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797155101,0,3219,0.0798457011682824,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797157101,1,38053,0.6273711533725824,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797165102,0,8933,0.0456868872264642,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797166101,0,4822,0.0591618073832959,0,Elderly / Moderate Conditions / Mixed Insurance
+2797167102,0,30666,0.2725584444237289,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797186101,0,11712,0.0787780934017406,0,Elderly / Moderate Conditions / Mixed Insurance
+2797196102,1,49304,0.2240760507221371,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797205102,0,7910,0.202772764435217,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797224101,1,46070,0.0445925721127627,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797226102,0,1138,0.2111345282947712,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797233102,0,17213,0.0526173470724196,0,Elderly / Moderate Conditions / Mixed Insurance
+2797237101,0,5798,0.0430204044635869,0,Elderly / Moderate Conditions / Mixed Insurance
+2797239101,0,14102,0.0398472535848397,0,Elderly / Moderate Conditions / Mixed Insurance
+2797251101,0,2284,0.262580460055933,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797267101,1,120035,0.5262917253167311,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797272102,0,1276,0.0538930036997955,3,Elderly / Moderate Conditions / Mixed Insurance
+2797277102,0,806,0.0479535501268906,0,Elderly / Moderate Conditions / Mixed Insurance
+2797283101,1,39141,0.3288602778240328,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797292101,0,8678,0.2321031268179997,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797293102,0,17532,0.5283560032785471,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797302102,0,30393,0.201376970538035,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797306102,0,6406,0.0831188579676572,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797308101,0,15216,0.052420694071073,0,Elderly / Moderate Conditions / Mixed Insurance
+2797309101,0,10477,0.1702343940414953,0,Elderly / Moderate Conditions / Mixed Insurance
+2797311101,0,22515,0.2151288632634907,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797315101,0,5420,0.0440777481212043,0,Elderly / Moderate Conditions / Mixed Insurance
+2797315102,0,4762,0.4314454922108698,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797321101,0,17254,0.4057663049324295,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797327101,0,18071,0.073347765634448,3,Elderly / Moderate Conditions / Mixed Insurance
+2797333101,0,9229,0.0539269223803943,0,Elderly / Moderate Conditions / Mixed Insurance
+2797345102,0,26555,0.1678535580480952,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797346101,0,22997,0.0428252280481274,0,Elderly / Moderate Conditions / Mixed Insurance
+2797353101,0,10965,0.0446874466493151,0,Elderly / Moderate Conditions / Mixed Insurance
+2797358101,0,14089,0.5740075984471931,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797360101,0,29364,0.0777476700546775,0,Elderly / Moderate Conditions / Mixed Insurance
+2797361101,0,15044,0.2836904517958039,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797363101,0,12724,0.057418843459555,3,Elderly / Moderate Conditions / Mixed Insurance
+2797366101,0,1548,0.0888853632161011,3,Elderly / Moderate Conditions / Mixed Insurance
+2797370101,0,11203,0.0683695563496487,0,Elderly / Moderate Conditions / Mixed Insurance
+2797373101,0,23008,0.0426674848991816,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797376101,0,6532,0.1064797644587368,0,Elderly / Moderate Conditions / Mixed Insurance
+2797380101,0,3509,0.0507206615564182,0,Elderly / Moderate Conditions / Mixed Insurance
+2797380102,0,26802,0.3293769396249127,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797402101,1,63547,0.5819133017399336,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797404101,0,6808,0.0422990545922392,3,Elderly / Moderate Conditions / Mixed Insurance
+2797419101,0,12193,0.3974612610731502,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797419102,0,12574,0.0898886405423858,3,Elderly / Moderate Conditions / Mixed Insurance
+2797420102,0,23887,0.0577414641932787,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797424101,1,78102,0.2515224334331716,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797448101,0,3578,0.0563939571875063,3,Elderly / Moderate Conditions / Mixed Insurance
+2797448102,0,35997,0.1430916505260566,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797479101,0,22494,0.2259520059560511,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797485101,0,3168,0.0520996453084392,0,Elderly / Moderate Conditions / Mixed Insurance
+2797487101,0,6884,0.2037461267585127,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797502102,0,6659,0.0970361653842414,0,Elderly / Moderate Conditions / Mixed Insurance
+2797503101,0,12608,0.2062927043953479,3,Elderly / Moderate Conditions / Mixed Insurance
+2797518102,0,228,0.0906379356026394,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797530101,0,14249,0.0594104055580281,0,Elderly / Moderate Conditions / Mixed Insurance
+2797534101,0,7699,0.2173303736015745,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797535101,0,29381,0.0738719917395298,0,Elderly / Moderate Conditions / Mixed Insurance
+2797544102,0,8041,0.064212807422604,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797545102,0,11496,0.250940813012437,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797545103,0,12527,0.52114447086722,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797565101,0,9705,0.0471978490555784,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797579101,0,3673,0.0516954300615013,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797584101,0,5920,0.104415868725612,3,Elderly / Moderate Conditions / Mixed Insurance
+2797593103,0,37388,0.178726106180245,3,Elderly / Moderate Conditions / Mixed Insurance
+2797617102,1,220653,0.5909481054311707,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797622101,1,100277,0.195705395137533,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797623101,1,190917,0.4543383196681675,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797623102,0,22786,0.305697015455684,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797634101,0,16407,0.3066581757588239,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797648102,0,22127,0.2311749017232851,3,Elderly / Moderate Conditions / Mixed Insurance
+2797648103,0,19714,0.1051334412695833,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797659101,0,18074,0.045421039261757,3,Elderly / Moderate Conditions / Mixed Insurance
+2797675101,0,8559,0.1473051214090674,3,Elderly / Moderate Conditions / Mixed Insurance
+2797678101,0,3250,0.0664039246732811,3,Elderly / Moderate Conditions / Mixed Insurance
+2797679102,0,7031,0.043739923349081,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797681101,0,8651,0.0576325004691759,3,Elderly / Moderate Conditions / Mixed Insurance
+2797685101,1,39155,0.0503060915403499,0,Elderly / Moderate Conditions / Mixed Insurance
+2797704102,0,1641,0.0961270801288571,0,Elderly / Moderate Conditions / Mixed Insurance
+2797713102,0,8723,0.2451132868894524,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797718101,0,11920,0.256368029583555,3,Elderly / Moderate Conditions / Mixed Insurance
+2797733101,0,2004,0.0712466381664195,3,Elderly / Moderate Conditions / Mixed Insurance
+2797735101,0,19285,0.4898097499864084,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797738101,0,37369,0.0603775832987569,0,Elderly / Moderate Conditions / Mixed Insurance
+2797739101,0,26297,0.3153546519284863,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797739102,0,30253,0.1702485055319665,3,Elderly / Moderate Conditions / Mixed Insurance
+2797741101,0,24565,0.1182056869497332,3,Elderly / Moderate Conditions / Mixed Insurance
+2797747101,0,1731,0.0598898829898076,3,Elderly / Moderate Conditions / Mixed Insurance
+2797752101,0,1566,0.0608125319907695,0,Elderly / Moderate Conditions / Mixed Insurance
+2797764102,0,7949,0.2410221776356102,3,Elderly / Moderate Conditions / Mixed Insurance
+2797770102,0,12445,0.1011910768309803,3,Elderly / Moderate Conditions / Mixed Insurance
+2797776101,1,56300,0.0442973810813171,0,Elderly / Moderate Conditions / Mixed Insurance
+2797778101,0,6162,0.0600920498025656,0,Elderly / Moderate Conditions / Mixed Insurance
+2797787101,0,16206,0.0953603238110689,3,Elderly / Moderate Conditions / Mixed Insurance
+2797795101,0,19087,0.0530937573241133,0,Elderly / Moderate Conditions / Mixed Insurance
+2797807101,1,157666,0.2301792971580729,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797808101,0,12302,0.1775619848355859,3,Elderly / Moderate Conditions / Mixed Insurance
+2797809101,0,7082,0.1061368633637046,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797811101,0,11139,0.0880696098933395,0,Elderly / Moderate Conditions / Mixed Insurance
+2797811102,0,5286,0.2758443559824562,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797814101,0,19440,0.3204321846641757,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797815104,1,312186,0.5637120703888477,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797829101,0,7167,0.2877893263068645,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797830101,0,4078,0.3086442939666175,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797833101,0,5158,0.0486708508232978,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797838101,0,11221,0.0645163798128248,3,Elderly / Moderate Conditions / Mixed Insurance
+2797851102,0,31182,0.1000284249069473,3,Elderly / Moderate Conditions / Mixed Insurance
+2797861101,1,64202,0.4016633520424575,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797879101,0,19462,0.4246212769654504,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797887101,0,11240,0.3390445402307566,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797889101,1,50658,0.0839837036711083,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797896101,0,5317,0.2611967416123343,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797906101,0,10745,0.2648984092822207,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797906102,0,5088,0.1253845360893086,3,Elderly / Moderate Conditions / Mixed Insurance
+2797910101,0,21322,0.0570193894770471,0,Elderly / Moderate Conditions / Mixed Insurance
+2797910102,0,11696,0.0645066267076123,3,Elderly / Moderate Conditions / Mixed Insurance
+2797918101,0,1175,0.0586016856691614,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797921102,0,36401,0.0955294392546237,3,Elderly / Moderate Conditions / Mixed Insurance
+2797923101,0,1329,0.223630591477522,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797923102,0,6459,0.0701827750745776,3,Elderly / Moderate Conditions / Mixed Insurance
+2797925102,0,1002,0.1061932332363054,3,Elderly / Moderate Conditions / Mixed Insurance
+2797932101,0,4440,0.042153702999788,0,Elderly / Moderate Conditions / Mixed Insurance
+2797932104,0,3708,0.1789397880456298,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797933101,0,17004,0.3754464788832935,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797933102,0,16703,0.0706325697467781,0,Elderly / Moderate Conditions / Mixed Insurance
+2797942101,0,5639,0.0721628807067527,0,Elderly / Moderate Conditions / Mixed Insurance
+2797957102,0,37159,0.2903864388835881,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797962101,0,11131,0.0695011297221503,3,Elderly / Moderate Conditions / Mixed Insurance
+2797969101,0,11098,0.1896154264260413,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797970102,0,29080,0.226249641324191,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797984101,1,38706,0.1942180154007187,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2797987102,0,1788,0.0554530364338811,3,Elderly / Moderate Conditions / Mixed Insurance
+2797988101,0,2642,0.0504847964469319,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2797996102,0,12622,0.040671720062889,0,Elderly / Moderate Conditions / Mixed Insurance
+2798000102,0,12323,0.0439393211346393,0,Elderly / Moderate Conditions / Mixed Insurance
+2798005101,0,2320,0.081613043055305,3,Elderly / Moderate Conditions / Mixed Insurance
+2798005102,0,10477,0.0672573741553092,3,Elderly / Moderate Conditions / Mixed Insurance
+2798007101,0,18494,0.3260633523145896,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798008101,1,54080,0.1560445502988758,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798009102,0,11084,0.1894426942971231,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798011101,0,37375,0.6094746128322786,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798016101,0,4792,0.0777833797931565,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798017101,0,25483,0.43147684703052,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798019101,0,5787,0.0398019559421608,0,Elderly / Moderate Conditions / Mixed Insurance
+2798020101,1,45918,0.5825432882875241,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798020102,0,15602,0.2873671396251038,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798025102,0,3992,0.0781942007125957,0,Elderly / Moderate Conditions / Mixed Insurance
+2798033101,0,371,0.0414019795379472,0,Elderly / Moderate Conditions / Mixed Insurance
+2798039102,0,8727,0.0498124361431947,0,Elderly / Moderate Conditions / Mixed Insurance
+2798049101,0,22868,0.5393141045356495,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798063101,0,4630,0.0588133481721599,0,Elderly / Moderate Conditions / Mixed Insurance
+2798069101,0,8383,0.0470403637561211,0,Elderly / Moderate Conditions / Mixed Insurance
+2798069102,0,3971,0.0464042936763404,0,Elderly / Moderate Conditions / Mixed Insurance
+2798077101,0,4927,0.0439492532528138,3,Elderly / Moderate Conditions / Mixed Insurance
+2798079101,0,2331,0.0591575520628799,0,Elderly / Moderate Conditions / Mixed Insurance
+2798080101,0,9933,0.0837931201827738,0,Elderly / Moderate Conditions / Mixed Insurance
+2798081101,0,14280,0.3017966257281271,3,Elderly / Moderate Conditions / Mixed Insurance
+2798083102,0,21731,0.2272038399526065,3,Elderly / Moderate Conditions / Mixed Insurance
+2798088101,0,14423,0.0580663141353345,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798093101,0,17585,0.1249556027026653,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798095101,0,21174,0.2868391435334312,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798103101,0,10351,0.5510549577150402,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798109101,1,48655,0.5792406610381893,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798120102,1,54809,0.0651859270358381,0,Elderly / Moderate Conditions / Mixed Insurance
+2798123101,0,9099,0.0633379059972335,3,Elderly / Moderate Conditions / Mixed Insurance
+2798128101,0,6139,0.0566027095681169,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798131101,1,68386,0.1912624484617822,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798131102,0,18651,0.062507209270945,3,Elderly / Moderate Conditions / Mixed Insurance
+2798138101,0,37642,0.1145022361286917,0,Elderly / Moderate Conditions / Mixed Insurance
+2798138102,1,139929,0.0651399963794331,3,Elderly / Moderate Conditions / Mixed Insurance
+2798142101,1,38794,0.5042089903084415,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798145102,0,4417,0.1040276384978275,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798153102,0,37537,0.5962875064808608,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798156101,0,15325,0.3015666648063568,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798162101,0,10006,0.1008978110229767,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798172101,0,13338,0.1106519622697134,0,Elderly / Moderate Conditions / Mixed Insurance
+2798172102,1,45258,0.2648225722506504,3,Elderly / Moderate Conditions / Mixed Insurance
+2798177101,0,27099,0.4394771244479016,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798187101,1,40450,0.0718298505640425,3,Elderly / Moderate Conditions / Mixed Insurance
+2798192101,1,43424,0.5705216872481386,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798195101,0,19115,0.0617252600573207,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798198102,1,54536,0.2749345895296639,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798205101,0,9710,0.2162324843840824,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798210101,0,5994,0.1160969907043065,0,Elderly / Moderate Conditions / Mixed Insurance
+2798220101,0,9015,0.0452506029265371,0,Elderly / Moderate Conditions / Mixed Insurance
+2798259101,1,438984,0.5309353641135297,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798262101,0,797,0.1183990989670039,3,Elderly / Moderate Conditions / Mixed Insurance
+2798267101,0,15970,0.0595518999344144,0,Elderly / Moderate Conditions / Mixed Insurance
+2798273101,1,47309,0.1766224704940956,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798281101,0,28754,0.1281227941181692,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798282102,0,9768,0.0521755400324165,0,Elderly / Moderate Conditions / Mixed Insurance
+2798284102,0,323,0.043311735639604,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798285101,0,5452,0.0476715549034267,0,Elderly / Moderate Conditions / Mixed Insurance
+2798285102,1,63866,0.0516644623701714,0,Elderly / Moderate Conditions / Mixed Insurance
+2798291101,1,51621,0.2135478984845809,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798294101,0,9907,0.3374316745329849,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798297101,1,50175,0.4724843993456563,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798298102,0,6765,0.0487503765070819,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798301101,0,13224,0.1196704815109345,3,Elderly / Moderate Conditions / Mixed Insurance
+2798301102,0,20013,0.2623977805695715,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798303101,0,148,0.0505480576286977,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798305101,1,98247,0.4258985565663885,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798311101,1,57282,0.1142319582554295,0,Elderly / Moderate Conditions / Mixed Insurance
+2798315101,0,36307,0.0884257630758014,0,Elderly / Moderate Conditions / Mixed Insurance
+2798318101,0,9348,0.1854122805669548,3,Elderly / Moderate Conditions / Mixed Insurance
+2798327101,0,5205,0.2466598549505182,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798327102,0,24162,0.0663390901670348,0,Elderly / Moderate Conditions / Mixed Insurance
+2798331101,1,85400,0.4394987647066883,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798341101,0,15993,0.0417932745424177,0,Elderly / Moderate Conditions / Mixed Insurance
+2798344101,0,5759,0.0478149764349004,0,Elderly / Moderate Conditions / Mixed Insurance
+2798353102,0,1982,0.2037239192422676,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798360102,0,7919,0.3449725268838765,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798365101,0,7360,0.0579335883152188,0,Elderly / Moderate Conditions / Mixed Insurance
+2798374201,0,413,0.393931546937369,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798387101,0,3140,0.0618604402453824,0,Elderly / Moderate Conditions / Mixed Insurance
+2798403101,1,93012,0.5635962807839028,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798406101,0,800,0.0451187311803836,0,Elderly / Moderate Conditions / Mixed Insurance
+2798412101,0,10853,0.1451986929415605,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798412102,0,16879,0.2200052463330958,0,Elderly / Moderate Conditions / Mixed Insurance
+2798429101,0,17185,0.1757301917805067,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798432101,0,12762,0.1736210933202495,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798441102,1,47920,0.0498668914394166,0,Elderly / Moderate Conditions / Mixed Insurance
+2798450102,0,10034,0.434199479400165,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798454102,0,6,0.0823029995315745,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798457101,0,16304,0.3089115146024932,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798457102,0,10699,0.0415938638173669,0,Elderly / Moderate Conditions / Mixed Insurance
+2798464102,1,56110,0.5881386890671564,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798477101,0,4212,0.0780198497605202,0,Elderly / Moderate Conditions / Mixed Insurance
+2798487101,1,41813,0.1829333687176104,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798488101,0,22993,0.5777716338132413,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798490101,0,30751,0.1162740723703426,3,Elderly / Moderate Conditions / Mixed Insurance
+2798525102,0,111,0.0584768243551385,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798537101,0,16526,0.4239101481414865,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798551101,1,185763,0.5254795859474083,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798551102,0,19587,0.5094106541039661,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798552101,0,11266,0.0475736424444845,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798555101,0,24602,0.0698067952697057,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798557101,0,6930,0.0820787774159059,0,Elderly / Moderate Conditions / Mixed Insurance
+2798560102,0,3221,0.0506855058332602,0,Elderly / Moderate Conditions / Mixed Insurance
+2798564101,0,6613,0.2055414329012586,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798566102,0,10020,0.1142022667651922,3,Elderly / Moderate Conditions / Mixed Insurance
+2798570101,0,26789,0.0760797752794059,0,Elderly / Moderate Conditions / Mixed Insurance
+2798574103,0,7904,0.1046469851985612,3,Elderly / Moderate Conditions / Mixed Insurance
+2798577101,0,27529,0.5456881076135084,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798577102,0,4740,0.0416857992268422,0,Elderly / Moderate Conditions / Mixed Insurance
+2798585101,0,2493,0.0421428704210091,3,Elderly / Moderate Conditions / Mixed Insurance
+2798587101,1,88133,0.3914380254687417,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798588101,0,4661,0.0510056966618632,0,Elderly / Moderate Conditions / Mixed Insurance
+2798606101,0,14183,0.1083623134150978,3,Elderly / Moderate Conditions / Mixed Insurance
+2798607101,0,3004,0.0412538302140121,0,Elderly / Moderate Conditions / Mixed Insurance
+2798614101,0,7747,0.0878099873260643,0,Elderly / Moderate Conditions / Mixed Insurance
+2798620102,0,16825,0.0805601677190485,0,Elderly / Moderate Conditions / Mixed Insurance
+2798621101,0,882,0.0637301991813898,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798625102,0,31812,0.5311331110805355,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798626101,0,8520,0.0664720287595062,0,Elderly / Moderate Conditions / Mixed Insurance
+2798630101,0,11096,0.0795397347871938,3,Elderly / Moderate Conditions / Mixed Insurance
+2798631101,0,9224,0.0443545062504582,3,Elderly / Moderate Conditions / Mixed Insurance
+2798644101,0,35071,0.0413510320186988,0,Elderly / Moderate Conditions / Mixed Insurance
+2798653101,0,12414,0.1128561554505156,3,Elderly / Moderate Conditions / Mixed Insurance
+2798658101,1,44637,0.3859194241691207,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798664102,0,19292,0.2992053640804996,3,Elderly / Moderate Conditions / Mixed Insurance
+2798684101,0,4544,0.0505301349066955,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798688101,1,50290,0.0523337524910889,0,Elderly / Moderate Conditions / Mixed Insurance
+2798693101,0,22337,0.0677722437964394,0,Elderly / Moderate Conditions / Mixed Insurance
+2798712101,0,16140,0.0917250374484336,0,Elderly / Moderate Conditions / Mixed Insurance
+2798713101,0,6356,0.1585885058780494,3,Elderly / Moderate Conditions / Mixed Insurance
+2798713102,0,36556,0.4077857487716239,3,Elderly / Moderate Conditions / Mixed Insurance
+2798714101,0,15,0.1282177787844994,3,Elderly / Moderate Conditions / Mixed Insurance
+2798725101,0,10719,0.0469887719687188,0,Elderly / Moderate Conditions / Mixed Insurance
+2798725102,0,32,0.1571254151277404,3,Elderly / Moderate Conditions / Mixed Insurance
+2798728101,0,1700,0.0399068420255153,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798731101,1,147657,0.447742219337927,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798739102,0,3181,0.0418711369222554,3,Elderly / Moderate Conditions / Mixed Insurance
+2798743101,0,37662,0.0657278594762607,0,Elderly / Moderate Conditions / Mixed Insurance
+2798748101,0,2309,0.0576440024166741,0,Elderly / Moderate Conditions / Mixed Insurance
+2798785101,0,37179,0.3391409843128258,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798786101,1,40923,0.3756040024821485,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798790104,0,12497,0.3329398439892655,3,Elderly / Moderate Conditions / Mixed Insurance
+2798792101,0,25383,0.5371002465786071,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798795101,0,2941,0.0745301619595595,3,Elderly / Moderate Conditions / Mixed Insurance
+2798800101,0,5525,0.0707585816826779,0,Elderly / Moderate Conditions / Mixed Insurance
+2798815101,0,5294,0.0472318942994465,0,Elderly / Moderate Conditions / Mixed Insurance
+2798822101,1,54256,0.3256385673834686,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798829102,0,7679,0.3982050395578905,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798839101,0,7646,0.0451225931629769,0,Elderly / Moderate Conditions / Mixed Insurance
+2798841101,0,37557,0.3398727382602522,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798852101,0,5880,0.0400180294876796,0,Elderly / Moderate Conditions / Mixed Insurance
+2798867101,0,6155,0.0533049451568441,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798871102,0,13922,0.1437967168639373,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798871103,0,55,0.0857457337075825,3,Elderly / Moderate Conditions / Mixed Insurance
+2798873101,0,34856,0.0779931697603108,3,Elderly / Moderate Conditions / Mixed Insurance
+2798875103,0,19722,0.0525429891123151,0,Elderly / Moderate Conditions / Mixed Insurance
+2798878101,0,9004,0.0912039396842504,0,Elderly / Moderate Conditions / Mixed Insurance
+2798879101,0,2957,0.0896723593147501,3,Elderly / Moderate Conditions / Mixed Insurance
+2798880103,0,32,0.0439361934307879,3,Elderly / Moderate Conditions / Mixed Insurance
+2798897102,0,30542,0.4699563552990467,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798899102,0,2740,0.044113525537687,0,Elderly / Moderate Conditions / Mixed Insurance
+2798914101,0,26090,0.3098139786419715,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798915101,0,17159,0.0456123318839494,3,Elderly / Moderate Conditions / Mixed Insurance
+2798931101,0,9387,0.0630792049548029,0,Elderly / Moderate Conditions / Mixed Insurance
+2798934101,1,49566,0.2697698755485023,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798949101,0,6854,0.0432437316795335,0,Elderly / Moderate Conditions / Mixed Insurance
+2798956101,1,86978,0.1502846682416068,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798956102,0,28068,0.4892025550219619,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798966102,0,7158,0.043638748766175,0,Elderly / Moderate Conditions / Mixed Insurance
+2798967101,1,84699,0.3811784344696252,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798970102,0,20172,0.3289419400241593,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798984101,0,1980,0.1825774165661066,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2798985101,0,4609,0.1496824303862897,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798992101,0,8590,0.0815514290532569,0,Elderly / Moderate Conditions / Mixed Insurance
+2798992102,0,2763,0.0522143510568673,0,Elderly / Moderate Conditions / Mixed Insurance
+2798997101,0,36058,0.225859659862874,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2798998101,0,7056,0.0535549142085459,0,Elderly / Moderate Conditions / Mixed Insurance
+2798999102,0,7785,0.1548288058816557,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2799004101,1,45804,0.1974783766021607,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799006101,0,6224,0.0460153819353469,0,Elderly / Moderate Conditions / Mixed Insurance
+2799012101,1,328550,0.5609639519653438,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799013101,0,13141,0.1665746441076795,3,Elderly / Moderate Conditions / Mixed Insurance
+2799019101,0,3566,0.0464267491177086,0,Elderly / Moderate Conditions / Mixed Insurance
+2799030102,0,30160,0.1261516168196285,3,Elderly / Moderate Conditions / Mixed Insurance
+2799035101,0,28307,0.0644527472044083,0,Elderly / Moderate Conditions / Mixed Insurance
+2799041101,0,13387,0.2693847213557883,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799046101,1,51926,0.2008237234596009,3,Elderly / Moderate Conditions / Mixed Insurance
+2799048101,1,74019,0.1714138848223134,0,Elderly / Moderate Conditions / Mixed Insurance
+2799054101,0,15102,0.1265691662807342,3,Elderly / Moderate Conditions / Mixed Insurance
+2799058101,0,9363,0.2931178983448748,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799058102,0,0,0.0688234966442853,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2799064101,1,42241,0.281179517877145,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799064102,1,74058,0.0550935780299356,0,Elderly / Moderate Conditions / Mixed Insurance
+2799074101,0,18202,0.2048029927222562,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799077101,0,19811,0.0436770840495232,0,Elderly / Moderate Conditions / Mixed Insurance
+2799084101,1,45067,0.0417511791778541,3,Elderly / Moderate Conditions / Mixed Insurance
+2799091101,0,1886,0.0467110411371938,0,Elderly / Moderate Conditions / Mixed Insurance
+2799110101,0,15708,0.2868207313331953,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799122102,0,5881,0.0411686769346681,3,Elderly / Moderate Conditions / Mixed Insurance
+2799131101,0,23350,0.1363520105065305,3,Elderly / Moderate Conditions / Mixed Insurance
+2799146101,0,24191,0.4395866340694777,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2799146102,0,13366,0.4781240307756616,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799152101,0,13189,0.1940788914507605,3,Elderly / Moderate Conditions / Mixed Insurance
+2799152102,0,13136,0.0707072227392292,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799152103,0,20664,0.0450249602093659,0,Elderly / Moderate Conditions / Mixed Insurance
+2799158101,0,15456,0.0525408868531113,0,Elderly / Moderate Conditions / Mixed Insurance
+2799183101,1,37926,0.4466970969280351,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799183102,1,45064,0.3633161029919757,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799187101,0,13385,0.0791517505603101,0,Elderly / Moderate Conditions / Mixed Insurance
+2799187102,0,29402,0.0409059496453203,0,Elderly / Moderate Conditions / Mixed Insurance
+2799188101,0,15277,0.1610465915429032,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799190103,0,35437,0.1208284070636794,3,Elderly / Moderate Conditions / Mixed Insurance
+2799190104,1,59067,0.1732287767168435,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799192103,1,76365,0.0714768185990396,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2799197102,0,14773,0.3638365268729626,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799201102,0,2260,0.0743974750372463,0,Elderly / Moderate Conditions / Mixed Insurance
+2799202101,1,151541,0.4554501084472964,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2799209101,0,20687,0.2997180137125891,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799224101,0,13941,0.2225550065254134,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799228101,0,18599,0.4581321484674424,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799228102,0,3110,0.0400493851083544,0,Elderly / Moderate Conditions / Mixed Insurance
+2799244102,0,14931,0.0464045187459939,3,Elderly / Moderate Conditions / Mixed Insurance
+2799249101,1,80592,0.5668609409012856,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799274102,1,49766,0.0442305301757284,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2799280102,0,10967,0.127812856246154,0,Elderly / Moderate Conditions / Mixed Insurance
+2799284104,0,6544,0.2586020376431125,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799290101,0,9971,0.1168770343771996,0,Elderly / Moderate Conditions / Mixed Insurance
+2799291101,0,1431,0.0725486466721296,0,Elderly / Moderate Conditions / Mixed Insurance
+2799292101,1,99946,0.4137007690843533,3,Elderly / Moderate Conditions / Mixed Insurance
+2799311104,0,568,0.0513130384087477,3,Elderly / Moderate Conditions / Mixed Insurance
+2799330101,0,9186,0.3732548576402073,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799344101,1,51553,0.0667120550470625,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2799350101,0,14114,0.1358435752774097,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799374101,0,8893,0.1112387810394614,3,Elderly / Moderate Conditions / Mixed Insurance
+2799377101,0,5954,0.0523318476312043,0,Elderly / Moderate Conditions / Mixed Insurance
+2799382101,0,13321,0.1721471325391848,3,Elderly / Moderate Conditions / Mixed Insurance
+2799383102,0,557,0.0487063030641676,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2799394101,0,18932,0.1033593390986113,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799399101,1,86529,0.1273706543251037,0,Elderly / Moderate Conditions / Mixed Insurance
+2799406101,0,252,0.0769577076433139,3,Elderly / Moderate Conditions / Mixed Insurance
+2799408101,0,17099,0.0743123016831543,0,Elderly / Moderate Conditions / Mixed Insurance
+2799437101,0,28722,0.1279418866354146,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799446101,1,127988,0.0838528849321581,0,Elderly / Moderate Conditions / Mixed Insurance
+2799447102,0,10121,0.0822632195173854,0,Elderly / Moderate Conditions / Mixed Insurance
+2799457101,0,3875,0.093629571714225,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2799473101,0,590,0.0513024461801891,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2799488101,0,2477,0.1388902540585411,0,Elderly / Moderate Conditions / Mixed Insurance
+2799508104,0,28924,0.0643021004672856,0,Elderly / Moderate Conditions / Mixed Insurance
+2799511101,0,33372,0.2453706178815676,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2799532101,0,15193,0.0921590343579286,3,Elderly / Moderate Conditions / Mixed Insurance
+2799545101,0,7615,0.4004712090643149,3,Elderly / Moderate Conditions / Mixed Insurance
+2799546101,0,8019,0.0571489046238175,3,Elderly / Moderate Conditions / Mixed Insurance
+2799550101,0,29672,0.0736105702242543,0,Elderly / Moderate Conditions / Mixed Insurance
+2799557103,1,48399,0.0739944714086532,0,Elderly / Moderate Conditions / Mixed Insurance
+2799576102,0,10131,0.1677665790776677,3,Elderly / Moderate Conditions / Mixed Insurance
+2799581101,0,5797,0.0567982566935902,0,Elderly / Moderate Conditions / Mixed Insurance
+2799582101,0,15816,0.5202540863562143,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799583101,0,4655,0.1001709913111386,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2799584101,1,40093,0.0620134107978283,0,Elderly / Moderate Conditions / Mixed Insurance
+2799589101,1,66934,0.5011589825355988,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799592101,0,16462,0.2567800396344813,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799595101,0,31574,0.090723721392006,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2799595102,1,97283,0.0892461911106375,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2799604101,0,20273,0.1455535592877151,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799636101,0,795,0.0400697339300491,0,Elderly / Moderate Conditions / Mixed Insurance
+2799645101,0,4926,0.0554154980275791,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2799650101,0,16517,0.4735836517578026,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799650102,0,11980,0.1381698015326585,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2799663102,0,13699,0.3765180682869545,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799675101,0,9200,0.2073054266224722,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799677101,1,446031,0.5526369995449014,2,Older Adult / Moderate Conditions / Mixed Insurance / Rx-Driven / High ER Use
+2799678102,0,19644,0.1145860931512335,0,Elderly / Moderate Conditions / Mixed Insurance
+2799680101,0,3028,0.121725333998416,1,Older Adult / Moderate Conditions / Mixed Insurance / Inpatient-Driven / High ER Use
+2799690101,0,12814,0.0415129938021931,0,Elderly / Moderate Conditions / Mixed Insurance
+2799694101,0,9686,0.0980172574666587,3,Elderly / Moderate Conditions / Mixed Insurance
+2799694102,0,15820,0.1641516526117731,3,Elderly / Moderate Conditions / Mixed Insurance
