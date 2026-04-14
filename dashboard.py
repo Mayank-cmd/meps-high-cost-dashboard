@@ -203,7 +203,7 @@ st.markdown("""
     /* Hide deploy button */
     .stDeployButton { display: none; }
     #MainMenu { visibility: hidden; }
-    button[data-testid="stSidebarCollapseButton"] { display: none; }
+    button[data-testid="stSidebarCollapseButton"] { display: none !important; visibility: hidden !important; }
 
     /* Expander header — lighter background */
     .streamlit-expanderHeader {
