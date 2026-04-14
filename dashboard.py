@@ -204,6 +204,7 @@ st.markdown("""
     .stDeployButton { display: none; }
     #MainMenu { visibility: hidden; }
     button[data-testid="stSidebarCollapseButton"] { display: none !important; visibility: hidden !important; }
+    [data-testid="stSidebar"] button[kind="header"] { display: none !important; }
 
     /* Expander header — lighter background */
     .streamlit-expanderHeader {
