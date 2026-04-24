@@ -216,6 +216,16 @@ st.markdown("""
         height: 0 !important;
         overflow: hidden !important;
     }
+    /* Force sidebar always visible — cannot collapse */
+    section[data-testid="stSidebar"] {
+        min-width: 300px !important;
+        max-width: 300px !important;
+        transform: none !important;
+        position: relative !important;
+    }
+    section[data-testid="stSidebar"] > div {
+        width: 300px !important;
+    }
     [data-testid="stSidebar"] button[kind="header"] { display: none !important; }
     
     /* Expander header — lighter background */
