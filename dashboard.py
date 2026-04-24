@@ -203,9 +203,21 @@ st.markdown("""
     /* Hide deploy button */
     .stDeployButton { display: none; }
     #MainMenu { visibility: hidden; }
-    button[data-testid="stSidebarCollapseButton"] { display: none !important; visibility: hidden !important; }
+    button[data-testid="stSidebarCollapseButton"],
+    button[data-testid="baseButton-headerNoPadding"],
+    [data-testid="stSidebar"] button[kind="header"],
+    [data-testid="collapsedControl"],
+    section[data-testid="stSidebar"] > div:first-child > button,
+    .css-1rs6os ~ button,
+    div[data-testid="collapsedControl"] {
+        display: none !important;
+        visibility: hidden !important;
+        width: 0 !important;
+        height: 0 !important;
+        overflow: hidden !important;
+    }
     [data-testid="stSidebar"] button[kind="header"] { display: none !important; }
-
+    
     /* Expander header — lighter background */
     .streamlit-expanderHeader {
         background-color: #eee8e0 !important;
